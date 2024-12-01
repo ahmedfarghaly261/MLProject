@@ -1,0 +1,2001 @@
+Location,Year_Built,Price_USD,Bedrooms,Bathrooms,Square_Feet,Street_Type,Price_per_Square_Foot
+Houston,1994,739971.84,6,1,,Highway,150
+New York,1941,579540.19,6,1,9173,Corner Lot,200
+San Diego,1963,944896.93,3,5,7738,Side Street,180
+Houston,1906,998953.18,7,3,7162,Main Street,150
+Philadelphia,1960,707713.12,7,5,4076,Main Street,120
+Philadelphia,2019,504765.76,1,2,6647,Highway,120
+Houston,1971,790565.61,7,2,1626,Side Street,150
+Los Angeles,1915,59750.11,2,3,3709,Highway,180
+San Diego,1973,341370.14,1,1,7482,Main Street,180
+Phoenix,1929,358799.46,3,1,9080,Residential Street,130
+New York,1982,423457.98,5,1,7195,Highway,200
+Phoenix,1939,214088.37,4,4,8325,Main Street,130
+Chicago,1979,556551.6,3,4,2771,Main Street,220
+San Antonio,1923,234258.27,6,3,8222,Corner Lot,170
+San Diego,1970,875054.12,2,5,2498,Residential Street,180
+New York,1903,654966.13,7,2,2049,Residential Street,200
+Los Angeles,1997,621230.65,5,4,1471,Main Street,180
+Los Angeles,1905,149329.09,6,5,,Side Street,180
+San Antonio,1975,300794.4,7,2,1372,Corner Lot,170
+Houston,2004,621774.83,5,5,2613,Side Street,150
+San Antonio,1912,295495.55,6,1,3485,Main Street,170
+New York,2018,680639.32,5,5,2796,Side Street,200
+Philadelphia,1993,89560.1,1,5,3496,Side Street,120
+San Diego,1914,727356.19,5,5,2748,Corner Lot,180
+San Antonio,1941,684845.66,5,1,9825,Corner Lot,170
+Phoenix,1939,519909.58,4,5,9165,Corner Lot,130
+Los Angeles,1972,287485.81,7,3,6917,Side Street,180
+San Diego,2020,630896.61,2,4,9789,Main Street,180
+Philadelphia,1987,776887.12,2,4,582,Main Street,120
+San Diego,2015,856293.84,2,4,9056,Residential Street,180
+Houston,1900,408954.99,4,4,9155,Corner Lot,150
+Houston,1977,836058.29,4,4,4753,Side Street,150
+San Diego,1964,142315.96,5,1,5361,Side Street,180
+San Diego,2022,354851.58,4,1,3889,Highway,180
+New York,1908,711915.76,2,3,1105,Main Street,200
+San Diego,1994,118718.86,3,4,1654,Corner Lot,180
+San Antonio,1965,495145.31,3,5,9061,Highway,170
+San Diego,1914,400170.41,7,1,8546,Corner Lot,180
+Chicago,1996,804151.6,5,2,9118,Residential Street,220
+Phoenix,1950,424601.9,5,3,2546,Main Street,130
+San Diego,1922,748315.12,7,3,,Highway,180
+Philadelphia,2007,967692.8,5,2,6901,Side Street,120
+Houston,1932,582471,4,2,8814,Highway,150
+San Antonio,1974,219310.01,2,1,8523,Residential Street,170
+San Diego,1972,909873.72,4,2,1783,Side Street,180
+Philadelphia,1953,450671.34,2,5,2610,Side Street,120
+Los Angeles,1935,169136.21,3,4,,Highway,180
+San Antonio,1936,629220.34,6,1,5696,Highway,170
+Phoenix,1967,496537.15,4,5,1751,Side Street,130
+Houston,1983,258851.31,6,1,4148,Main Street,150
+Los Angeles,2019,370192.39,1,4,,Corner Lot,180
+Phoenix,1959,349233.78,3,1,1115,Residential Street,130
+Chicago,1955,500499.58,1,3,9875,Corner Lot,220
+Houston,1985,886565.93,2,3,2927,Side Street,150
+San Diego,1983,483411.59,7,5,8058,Highway,180
+Philadelphia,2003,723535.08,1,4,1414,Highway,120
+Los Angeles,1983,371018.54,5,1,7384,Highway,180
+Houston,2009,857535.8,7,3,4571,Corner Lot,150
+San Diego,1912,89478.6,1,1,1571,Corner Lot,180
+Phoenix,2021,562356.55,3,3,7896,Main Street,130
+New York,1923,847876.6,5,3,7838,Corner Lot,200
+Los Angeles,1956,714676.29,7,3,4065,Side Street,180
+San Antonio,1921,319975.5,3,1,3628,Side Street,170
+Chicago,1979,63310.14,4,1,6454,Side Street,220
+Houston,1933,551250.98,2,3,8372,Residential Street,150
+Chicago,1943,602067.79,2,2,4145,Main Street,220
+Houston,1930,978205.36,2,2,9506,Side Street,150
+Houston,1929,152395.48,2,5,5734,Main Street,150
+San Diego,1931,219834.49,4,1,5740,Corner Lot,180
+Chicago,1903,124770.86,7,3,2524,Highway,220
+New York,1901,708599.58,6,5,6437,Corner Lot,200
+Houston,1941,730029.99,7,1,4389,Main Street,150
+Houston,2016,607543.63,3,4,6876,Residential Street,150
+Philadelphia,1964,580425.73,2,4,9545,Highway,120
+Los Angeles,2017,264684.68,5,2,8878,Highway,180
+Philadelphia,1912,953847.4,4,4,3615,Highway,120
+Houston,1911,209766.62,4,5,2165,Main Street,150
+Chicago,1923,563538.78,1,2,3046,Corner Lot,220
+Philadelphia,1955,145470.82,7,1,6712,Corner Lot,120
+Chicago,1984,908402.47,3,1,2851,Residential Street,220
+San Diego,1983,632606.83,1,1,4625,Corner Lot,180
+San Diego,1970,566477.71,6,2,1053,Side Street,180
+Chicago,2009,131127.49,3,3,2213,Highway,220
+San Antonio,1950,435567.81,6,5,7807,Highway,170
+Chicago,1931,164973.86,4,2,9571,Main Street,220
+New York,1989,577544.81,7,1,1719,Side Street,200
+Chicago,1987,117787.04,2,4,9515,Side Street,220
+Los Angeles,1973,885488.91,6,5,6155,Residential Street,180
+Chicago,1974,137933.02,4,1,7244,Corner Lot,220
+San Diego,2006,499806.61,4,4,4463,Main Street,180
+Los Angeles,1944,819971.42,6,2,3571,Corner Lot,180
+Chicago,2015,53262.02,5,3,2441,Residential Street,220
+Houston,1912,630738.98,3,4,3741,Residential Street,150
+New York,1950,71750.58,2,3,1577,Highway,200
+Houston,1993,312673.46,7,5,8209,Main Street,150
+Philadelphia,1978,872569.59,7,4,7389,Residential Street,120
+New York,2018,434234.42,3,4,2430,Corner Lot,200
+Chicago,1980,989518.28,1,2,8328,Corner Lot,220
+Philadelphia,1960,353239.65,6,1,8098,Residential Street,120
+Los Angeles,1917,136926.37,5,4,3211,Corner Lot,180
+Phoenix,1991,285587.41,7,1,4160,Main Street,130
+San Diego,2012,919249.88,6,4,6403,Side Street,180
+Houston,1948,678230.09,1,1,7886,Side Street,150
+Philadelphia,1918,410441.26,3,1,7967,Residential Street,120
+Los Angeles,2010,408578.17,1,5,9013,Side Street,180
+Los Angeles,1994,155856.42,1,1,,Main Street,180
+Philadelphia,1963,386672.13,3,2,2522,Main Street,120
+San Antonio,2004,897037.61,7,1,8967,Highway,170
+San Antonio,1941,330666.17,2,1,3929,Highway,170
+Houston,1990,849007.58,4,2,1607,Main Street,150
+San Diego,1900,810865.62,2,3,1854,Side Street,180
+Los Angeles,1935,97464.01,7,5,4379,Highway,180
+Los Angeles,2012,922472.55,3,2,2183,Highway,180
+San Diego,1969,570206.11,7,4,9500,Side Street,180
+Chicago,1946,79611.36,5,1,5392,Residential Street,220
+Los Angeles,2002,506475.92,4,2,1073,Highway,180
+Los Angeles,1911,144761.12,3,1,1386,Residential Street,180
+San Diego,1910,92298.5,4,1,5352,Main Street,180
+San Diego,1999,966291.11,4,3,7386,Residential Street,180
+New York,1983,800294.17,4,4,1102,Corner Lot,200
+San Diego,1952,417581.73,5,1,991,Corner Lot,180
+Philadelphia,1938,523892.62,4,4,2325,Corner Lot,120
+Houston,1907,745942.4,1,2,1026,Residential Street,150
+Houston,1956,379980.49,5,2,577,Highway,150
+Philadelphia,1979,987566.74,3,1,4834,Corner Lot,120
+Philadelphia,1955,135980.56,1,1,7515,Main Street,120
+Los Angeles,2011,997181.52,7,5,5679,Residential Street,180
+Chicago,1941,173362.57,2,5,5632,Residential Street,220
+Philadelphia,1995,425249.96,7,4,7719,Highway,120
+Houston,1972,105698.23,2,4,6686,Side Street,150
+Philadelphia,1993,295777.93,7,4,,Highway,120
+Chicago,1980,554197.46,3,5,8154,Corner Lot,220
+Philadelphia,1907,302824.91,5,3,2171,Highway,120
+Houston,1948,56482.51,7,3,1494,Residential Street,150
+Phoenix,1998,367162.43,4,5,3753,Main Street,130
+Chicago,1912,321815.17,4,3,2940,Main Street,220
+Philadelphia,1983,565483.79,2,5,5887,Side Street,120
+Chicago,2002,694782.77,2,3,4984,Main Street,220
+Houston,1955,825435.65,1,5,6013,Main Street,150
+San Antonio,2017,149841.98,2,1,2203,Highway,170
+Philadelphia,1932,671071.04,1,2,532,Corner Lot,120
+Philadelphia,1905,950358.51,6,3,7659,Side Street,120
+Chicago,1973,268152.67,4,2,7684,Residential Street,220
+Los Angeles,1930,150851.83,4,3,3677,Main Street,180
+Phoenix,2006,56265.46,6,4,1235,Corner Lot,130
+Houston,1972,64356.4,3,4,3733,Main Street,150
+Chicago,1915,522608.53,1,1,4344,Highway,220
+San Antonio,1960,371406.96,7,4,6955,Residential Street,170
+Houston,1939,448284,1,2,4260,Main Street,150
+San Diego,1945,199420.63,5,1,1914,Highway,180
+Houston,1959,528079.72,7,5,8359,Main Street,150
+San Diego,1959,370032.28,3,2,5415,Highway,180
+Philadelphia,1919,235771.33,3,5,,Corner Lot,120
+New York,2000,465976.4,3,3,941,Corner Lot,200
+San Diego,1974,891540.28,4,1,1948,Residential Street,180
+San Antonio,1996,175290.75,4,4,6689,Residential Street,170
+San Antonio,1951,482780.2,6,2,2521,Side Street,170
+San Antonio,2017,111731.24,1,4,6801,Corner Lot,170
+San Antonio,1925,807119.39,5,1,2560,Main Street,170
+New York,1974,896056.27,2,2,9508,Corner Lot,200
+New York,1988,457072.55,1,1,4506,Side Street,200
+San Antonio,1924,178919.5,5,3,3654,Residential Street,170
+Houston,2019,516010.94,6,5,2391,Corner Lot,150
+Houston,1957,322720.29,2,5,8773,Main Street,150
+San Antonio,1944,595006.59,4,1,2389,Corner Lot,170
+Philadelphia,2006,935335.73,5,5,1645,Corner Lot,120
+Chicago,2005,154176.82,6,4,8222,Highway,220
+Philadelphia,1968,529508.9,4,4,8944,Highway,120
+Los Angeles,2004,592468.78,5,1,9995,Corner Lot,180
+Phoenix,2013,270761.32,6,3,4756,Main Street,130
+San Antonio,1933,226605.52,5,3,1692,Main Street,170
+New York,1963,650924.09,6,4,672,Highway,200
+Los Angeles,1909,247273.37,7,2,4887,Highway,180
+San Antonio,1953,580928.04,6,4,,Highway,170
+San Antonio,1996,734227.86,5,4,9289,Side Street,170
+Houston,2005,181400.09,5,4,7040,Highway,150
+New York,1929,845187.24,2,2,2334,Residential Street,200
+Philadelphia,1971,343486.61,1,3,8749,Side Street,120
+Chicago,1960,813447.51,5,4,1062,Main Street,220
+New York,1972,507521.79,2,2,5750,Residential Street,200
+San Diego,1999,153664.78,2,4,2334,Residential Street,180
+Chicago,2013,382155.2,3,3,1609,Residential Street,220
+Phoenix,1979,112513.45,5,4,,Main Street,130
+Philadelphia,1956,115196.45,7,3,2062,Residential Street,120
+San Antonio,2013,349827.92,5,5,6032,Main Street,170
+Los Angeles,2014,104248.94,2,1,5050,Highway,180
+San Diego,1982,378637.24,3,3,7460,Corner Lot,180
+San Diego,1994,902600.05,3,2,864,Highway,180
+Los Angeles,1954,272451.45,5,2,4054,Residential Street,180
+Los Angeles,2001,782573.08,5,1,9103,Corner Lot,180
+Chicago,1909,327650.82,1,1,8557,Main Street,220
+Chicago,2017,74303.59,5,2,8839,Residential Street,220
+Los Angeles,1974,471292.73,1,5,2004,Main Street,180
+Philadelphia,1916,409582.49,1,3,1310,Highway,120
+Phoenix,1932,227595.71,5,3,855,Residential Street,130
+Los Angeles,1973,399541.11,4,4,8288,Highway,180
+Chicago,1942,697732.22,5,2,3744,Corner Lot,220
+New York,1912,917249.37,7,5,,Highway,200
+Los Angeles,1974,796473.08,5,3,9294,Residential Street,180
+San Antonio,1905,712057.74,4,2,8395,Residential Street,170
+Chicago,1900,976126.57,2,1,2891,Main Street,220
+Los Angeles,2014,753462.95,4,1,3914,Side Street,180
+New York,1924,570482.36,7,1,8672,Corner Lot,200
+Chicago,1960,73460.64,3,1,5619,Residential Street,220
+San Diego,1968,562365.15,1,4,7575,Corner Lot,180
+San Diego,2010,721339.71,7,2,6823,Corner Lot,180
+Philadelphia,1919,314301.95,5,1,,Residential Street,120
+San Antonio,1920,147694.28,5,1,,Corner Lot,170
+Philadelphia,2024,207416.22,7,3,8953,Main Street,120
+San Antonio,1903,338732.25,3,3,838,Highway,170
+San Diego,1999,714025.9,6,5,6692,Highway,180
+Chicago,1970,830194.86,3,5,1015,Corner Lot,220
+Chicago,1955,563917.04,5,1,904,Corner Lot,220
+Chicago,1983,836742.05,7,4,5442,Main Street,220
+Philadelphia,1990,322261.58,1,2,8066,Highway,120
+Phoenix,1930,407500.6,4,3,2630,Main Street,130
+Phoenix,2009,336212.36,1,3,4177,Main Street,130
+Chicago,1991,814160.33,3,1,7141,Corner Lot,220
+San Diego,2018,649730.57,7,4,8895,Side Street,180
+San Antonio,1926,793413.36,6,1,9661,Residential Street,170
+Chicago,1990,793906.14,5,3,8373,Main Street,220
+Phoenix,1983,324900.2,5,5,7015,Main Street,130
+New York,1925,583853.78,7,3,,Side Street,200
+Houston,1931,408521.45,2,4,7403,Residential Street,150
+San Antonio,1952,74125.56,5,1,3438,Residential Street,170
+Houston,1955,215308.89,5,5,3508,Highway,150
+Phoenix,1903,891658.64,3,1,9985,Side Street,130
+Philadelphia,2017,298139.9,1,5,5534,Highway,120
+Phoenix,1959,564647.77,5,1,8132,Main Street,130
+Los Angeles,1926,763523.11,7,2,7684,Main Street,180
+New York,2011,393937.58,5,2,3648,Highway,200
+Philadelphia,1984,691964.65,3,5,5266,Residential Street,120
+Chicago,2003,640278.12,4,4,,Highway,220
+San Diego,1962,757277.04,4,4,6546,Corner Lot,180
+New York,1982,466044.51,3,1,6072,Residential Street,200
+Phoenix,2005,893521.28,1,1,728,Corner Lot,130
+Los Angeles,1906,747027.27,7,4,7539,Residential Street,180
+Los Angeles,1996,285015.7,2,1,2629,Highway,180
+Philadelphia,1948,634295.99,2,5,667,Side Street,120
+Houston,1971,248298.62,4,3,4835,Side Street,150
+Los Angeles,1951,377259.71,6,2,7174,Side Street,180
+Phoenix,2015,232389.63,7,4,6713,Main Street,130
+New York,1925,777459.84,4,1,2598,Side Street,200
+Philadelphia,2024,470534.12,6,4,5543,Corner Lot,120
+Los Angeles,1987,167649.13,2,4,1156,Main Street,180
+San Antonio,2000,885137.06,3,3,8202,Main Street,170
+Houston,1959,459444.46,7,2,3084,Main Street,150
+San Diego,1995,107636.29,3,4,5827,Corner Lot,180
+New York,1976,605049.85,1,1,5321,Highway,200
+Chicago,1925,944398.62,4,3,5846,Highway,220
+San Diego,1957,166441.78,6,5,6701,Corner Lot,180
+San Antonio,2022,205219.7,1,5,5723,Corner Lot,170
+Los Angeles,1902,665381.79,2,4,9713,Main Street,180
+Philadelphia,1929,868463.65,1,1,2057,Residential Street,120
+Chicago,1931,335829.38,5,5,8361,Highway,220
+Phoenix,1936,588521.96,5,3,1433,Residential Street,130
+Houston,1929,220424.7,5,5,7352,Side Street,150
+Houston,1935,499231.85,1,1,7776,Residential Street,150
+Philadelphia,1911,843822.82,1,5,3304,Corner Lot,120
+Houston,1985,527432.64,4,2,3770,Main Street,150
+New York,1942,975823.9,4,4,4537,Main Street,200
+New York,1962,112483.79,2,2,7441,Side Street,200
+Los Angeles,1955,965477.95,7,5,4828,Residential Street,180
+Los Angeles,2015,911253.35,7,5,8803,Highway,180
+Chicago,2002,627847.86,4,3,526,Main Street,220
+San Diego,2016,228738.65,1,1,2452,Highway,180
+Los Angeles,1999,690715.09,7,3,6361,Corner Lot,180
+Phoenix,1940,878059.26,5,1,8412,Residential Street,130
+Chicago,1952,985507.96,7,1,9647,Corner Lot,220
+San Antonio,2012,513241.23,4,2,585,Side Street,170
+Los Angeles,1973,632379.59,6,2,7173,Highway,180
+San Antonio,1928,741861.23,5,1,662,Highway,170
+Chicago,2022,555494.82,3,2,3084,Side Street,220
+Chicago,1923,814167.75,2,5,9482,Highway,220
+New York,1996,673033.1,7,3,5456,Main Street,200
+Houston,2020,56490.53,4,4,8889,Corner Lot,150
+New York,1912,821118.15,7,4,1724,Main Street,200
+Philadelphia,1952,213444.1,1,3,7751,Corner Lot,120
+San Diego,1972,509740.61,2,3,3278,Corner Lot,180
+Houston,1999,792558.68,6,4,5808,Main Street,150
+New York,1949,913206.3,2,3,2447,Side Street,200
+Phoenix,1931,599889.96,4,3,5571,Side Street,130
+Phoenix,1968,599543.27,6,5,1655,Highway,130
+New York,1925,172253.69,6,2,1313,Main Street,200
+Phoenix,1942,956584.48,5,4,4503,Side Street,130
+Chicago,1994,262232.24,7,5,4272,Corner Lot,220
+San Diego,2024,983441.73,5,3,2416,Main Street,180
+Chicago,2005,781039.2,7,2,,Main Street,220
+San Antonio,1949,196341.99,3,4,6031,Highway,170
+Philadelphia,1983,134647.31,7,2,660,Main Street,120
+Los Angeles,1921,976841.63,6,2,4665,Highway,180
+Houston,1971,837368.94,4,1,6124,Residential Street,150
+New York,2022,275890.94,4,2,2344,Residential Street,200
+San Antonio,1909,306537.9,5,1,591,Highway,170
+San Antonio,1973,781703.11,3,3,,Residential Street,170
+New York,1947,349366.62,6,3,,Corner Lot,200
+Philadelphia,1914,848997.29,3,2,3338,Main Street,120
+Philadelphia,2015,651514.42,1,1,4864,Main Street,120
+Los Angeles,2008,591091.36,1,5,3757,Residential Street,180
+Philadelphia,1940,643757.74,7,4,633,Main Street,120
+Houston,1956,612380.76,6,1,2377,Main Street,150
+Los Angeles,2016,526299.95,2,5,2516,Highway,180
+Philadelphia,1970,662703.08,7,3,5157,Residential Street,120
+New York,2020,834866.73,4,1,2340,Main Street,200
+Philadelphia,1911,826851.61,5,1,7427,Main Street,120
+Chicago,1945,231182.3,4,4,7407,Corner Lot,220
+Phoenix,1944,718392.43,6,1,8296,Main Street,130
+New York,1931,422337.31,2,5,7612,Corner Lot,200
+Houston,1944,350617.79,2,5,4632,Side Street,150
+San Diego,1931,227464.15,7,5,1644,Highway,180
+Houston,1942,589362.65,1,2,3554,Corner Lot,150
+Philadelphia,2008,897378.19,3,4,4738,Side Street,120
+Houston,1923,646735.97,1,2,8309,Side Street,150
+Chicago,1921,535903.16,5,2,8240,Highway,220
+Philadelphia,1946,227981.51,5,5,8885,Main Street,120
+Houston,1931,432264.97,4,5,2361,Residential Street,150
+Philadelphia,1986,864514.09,2,2,,Highway,120
+San Diego,1986,640977.88,4,3,5376,Highway,180
+San Antonio,1901,521377.97,3,4,7779,Side Street,170
+Houston,2008,499485.33,5,5,5243,Side Street,150
+Los Angeles,1915,190913.84,5,4,6460,Residential Street,180
+Los Angeles,1970,160325.21,3,3,,Highway,180
+San Diego,1931,108039.4,7,2,1510,Highway,180
+Phoenix,1926,487989.07,5,1,7788,Corner Lot,130
+San Antonio,1973,352375.64,3,5,2298,Side Street,170
+Los Angeles,2022,790454.49,3,4,4293,Main Street,180
+Los Angeles,1914,96326.58,4,4,7471,Residential Street,180
+Phoenix,1957,272946.27,2,3,5537,Corner Lot,130
+New York,1932,822208.92,1,4,7893,Highway,200
+Houston,1996,919068.69,2,4,4617,Highway,150
+Houston,1941,433878.91,7,4,1782,Highway,150
+New York,1961,798036.35,4,5,514,Side Street,200
+Houston,2021,571074.32,4,4,6239,Corner Lot,150
+Phoenix,1988,64267.63,6,4,9500,Corner Lot,130
+Los Angeles,1946,128478.49,2,1,2459,Highway,180
+San Diego,2021,910964.35,3,1,,Side Street,180
+Chicago,1900,412233.2,5,4,9197,Main Street,220
+New York,2007,126875.21,7,5,2024,Corner Lot,200
+San Diego,1911,182461.52,6,5,2845,Corner Lot,180
+San Antonio,1910,816111.9,7,2,1505,Corner Lot,170
+Chicago,1997,501277.6,2,3,4954,Main Street,220
+New York,1999,210277.94,3,2,3688,Residential Street,200
+Philadelphia,2001,161576.29,1,2,3021,Side Street,120
+New York,1997,828934.96,3,3,5791,Residential Street,200
+Philadelphia,1950,359839.27,4,1,9985,Highway,120
+New York,1915,196730.69,5,4,4009,Residential Street,200
+San Antonio,1966,444831.85,7,5,7849,Main Street,170
+Chicago,1996,674865.48,1,1,2763,Main Street,220
+Phoenix,2020,297959.74,1,5,,Side Street,130
+San Antonio,1952,314151.91,5,2,3686,Corner Lot,170
+Los Angeles,2002,486211.36,6,3,7057,Side Street,180
+New York,2002,404915.18,7,5,9061,Corner Lot,200
+New York,1900,402636.54,3,5,8767,Residential Street,200
+Los Angeles,1922,626959.19,6,3,2653,Highway,180
+Phoenix,1973,948135.65,6,1,9912,Corner Lot,130
+Chicago,2011,217702.72,4,4,1559,Side Street,220
+Houston,1984,779562.19,6,1,4341,Side Street,150
+San Antonio,1992,834112.12,5,5,4995,Main Street,170
+Los Angeles,1991,884065.14,2,2,4299,Highway,180
+Philadelphia,1987,703860.19,4,4,9456,Side Street,120
+Houston,1900,554076.85,1,5,548,Side Street,150
+Chicago,1979,551358,2,3,4402,Corner Lot,220
+New York,1946,457849.42,2,1,5609,Main Street,200
+Phoenix,1957,959028.65,3,5,1294,Side Street,130
+Philadelphia,1927,561365.96,6,4,884,Highway,120
+Phoenix,1948,403131.92,5,2,8379,Residential Street,130
+San Diego,1955,920069.95,5,1,3694,Side Street,180
+Los Angeles,1998,667181.37,2,4,5508,Corner Lot,180
+San Antonio,1989,525149.73,4,1,8442,Corner Lot,170
+Chicago,1970,450266.17,4,3,912,Corner Lot,220
+New York,1998,697258.09,2,3,1375,Residential Street,200
+San Antonio,1921,231857.98,2,1,7922,Residential Street,170
+New York,1903,297388,7,1,643,Residential Street,200
+Houston,1932,446988.14,6,2,2174,Residential Street,150
+San Diego,1975,83676.42,5,3,,Corner Lot,180
+Philadelphia,1932,183689.81,2,5,4679,Main Street,120
+Los Angeles,1969,943680.27,1,5,3056,Side Street,180
+San Antonio,1962,942649.08,1,2,9521,Side Street,170
+Los Angeles,1964,739099.94,1,1,6819,Side Street,180
+Chicago,2011,414394.59,7,1,4384,Main Street,220
+Houston,1919,922906.79,3,3,8651,Main Street,150
+San Antonio,1996,450946.62,3,4,5754,Corner Lot,170
+Los Angeles,1996,852346.71,4,1,7052,Side Street,180
+Los Angeles,2005,226151.61,5,1,7242,Residential Street,180
+Houston,1915,242580.38,7,5,9820,Residential Street,150
+Chicago,2010,92289.48,6,3,6136,Main Street,220
+San Diego,1947,379747.07,4,4,844,Side Street,180
+Los Angeles,1964,903045.77,5,3,8685,Main Street,180
+San Diego,1967,906770.23,6,5,3645,Corner Lot,180
+Houston,1968,707475.99,6,5,,Main Street,150
+New York,1998,609707.43,7,4,8919,Main Street,200
+Phoenix,1973,794309.52,5,3,8113,Main Street,130
+New York,1914,136370.15,6,3,792,Highway,200
+Houston,1998,247550.06,1,3,9024,Highway,150
+Phoenix,1917,54336.53,1,1,1998,Residential Street,130
+Houston,1973,641921.36,5,4,2819,Corner Lot,150
+Philadelphia,1946,195337.21,5,5,7369,Side Street,120
+Philadelphia,2010,945259.02,3,3,7929,Corner Lot,120
+Chicago,1996,408860.17,7,1,790,Side Street,220
+New York,2011,897349.88,6,1,5755,Main Street,200
+Houston,2010,271658.64,7,3,1794,Highway,150
+New York,2009,908184.75,3,4,8401,Main Street,200
+Philadelphia,2016,855563,6,5,1234,Main Street,120
+New York,1951,561953.94,3,2,2962,Main Street,200
+Chicago,1936,727760.95,6,5,5508,Corner Lot,220
+New York,1921,125811.81,1,4,1387,Side Street,200
+San Antonio,1953,536316.76,6,1,5231,Corner Lot,170
+San Diego,1924,509325.05,4,5,6340,Main Street,180
+San Antonio,2023,696274.6,5,2,9044,Side Street,170
+Phoenix,2000,529470.14,4,2,923,Highway,130
+Chicago,1978,347059.01,3,1,3755,Corner Lot,220
+Phoenix,1907,58499.31,7,1,4107,Corner Lot,130
+Los Angeles,2006,105002.55,3,5,,Highway,180
+San Antonio,2009,556288.2,4,5,3626,Highway,170
+San Diego,1964,943017.65,4,5,4334,Side Street,180
+Phoenix,1934,539542.94,3,5,657,Side Street,130
+Philadelphia,1964,402521.26,5,3,7960,Main Street,120
+Phoenix,1955,896038.22,5,5,2012,Highway,130
+Chicago,1984,601093.4,7,3,6305,Residential Street,220
+San Diego,1995,830148.39,2,5,6512,Corner Lot,180
+Philadelphia,2022,218326.31,7,4,6713,Residential Street,120
+Philadelphia,2016,228376.99,5,2,4279,Highway,120
+Phoenix,1998,388472.66,4,1,7590,Side Street,130
+New York,1987,755144,4,1,7113,Corner Lot,200
+Philadelphia,1933,250719.12,6,4,6668,Residential Street,120
+Houston,2017,870846.93,4,2,6555,Main Street,150
+Houston,1931,930136.7,6,3,8189,Highway,150
+Phoenix,1911,943803.51,6,5,9289,Residential Street,130
+Phoenix,1939,151731.17,5,1,6393,Highway,130
+Houston,1903,555745.93,3,3,5129,Side Street,150
+Los Angeles,1938,326963.62,5,5,1880,Side Street,180
+Phoenix,1913,148645.51,6,2,4217,Side Street,130
+San Diego,1992,115763.43,5,4,3371,Residential Street,180
+Los Angeles,1968,212978.11,2,1,5758,Highway,180
+Houston,1935,734741.07,1,4,7520,Residential Street,150
+Philadelphia,1927,209637.17,2,3,,Main Street,120
+Phoenix,2002,79591.67,7,5,1491,Residential Street,130
+San Diego,2003,419794.02,3,1,828,Corner Lot,180
+Los Angeles,1955,493606.9,4,3,1910,Corner Lot,180
+San Antonio,2005,824504.28,4,1,1348,Residential Street,170
+San Diego,2014,241456.56,6,5,7952,Residential Street,180
+Phoenix,1985,291503.59,7,4,,Corner Lot,130
+San Diego,2010,168822.14,5,5,4014,Side Street,180
+Los Angeles,1987,730143.61,1,2,1018,Highway,180
+New York,1947,849529.6,1,1,1775,Main Street,200
+San Diego,1999,425715.79,7,4,9952,Highway,180
+New York,2018,464703.4,5,4,5807,Highway,200
+Los Angeles,1929,456639.98,6,5,1664,Highway,180
+Philadelphia,1965,827497.76,6,2,8209,Highway,120
+New York,1936,267093.86,4,3,1730,Residential Street,200
+Los Angeles,1965,552599.7,4,1,7066,Side Street,180
+Houston,1980,712042.95,4,2,1989,Corner Lot,150
+Houston,1967,758135.78,4,5,6336,Side Street,150
+Los Angeles,1916,221230.4,3,3,5452,Residential Street,180
+Chicago,1934,251450.76,1,4,3835,Residential Street,220
+New York,2008,662641.29,5,1,3376,Residential Street,200
+New York,1900,433699.09,5,5,5468,Main Street,200
+Philadelphia,1917,644488.93,2,1,8031,Main Street,120
+Chicago,1956,353244.63,5,4,4301,Main Street,220
+Phoenix,1959,176610.27,1,1,2242,Side Street,130
+Los Angeles,1985,993655.78,4,5,3821,Highway,180
+New York,1945,432609.86,2,1,5730,Highway,200
+San Antonio,2007,864456,2,2,7792,Highway,170
+Phoenix,1916,539033.78,3,5,7380,Corner Lot,130
+San Antonio,1975,866009.01,7,1,9686,Side Street,170
+Phoenix,1975,682738.28,5,2,9558,Highway,130
+Philadelphia,1993,145142.3,3,2,3548,Side Street,120
+Los Angeles,1967,586997.99,6,3,1605,Residential Street,180
+Phoenix,1953,566785.55,4,2,,Corner Lot,130
+Phoenix,1984,257592.68,6,1,9260,Side Street,130
+San Antonio,1919,549119.86,5,4,7363,Residential Street,170
+San Diego,1995,403602.68,5,4,4156,Residential Street,180
+Phoenix,1950,62326.46,2,4,8495,Highway,130
+Houston,2019,613005.62,5,2,964,Main Street,150
+Phoenix,2003,120382.28,1,3,6961,Residential Street,130
+Houston,1939,642329.34,2,5,596,Side Street,150
+Los Angeles,1995,57315.9,4,1,2127,Highway,180
+Philadelphia,1980,719159.55,6,2,9438,Main Street,120
+New York,1990,482376.37,3,4,3146,Side Street,200
+San Antonio,2005,743581.54,1,1,7148,Highway,170
+New York,1982,741837.51,2,5,2625,Residential Street,200
+San Antonio,1944,828573.19,4,5,9816,Side Street,170
+Chicago,1975,551030.57,6,5,9380,Main Street,220
+San Antonio,1959,425756.03,2,5,4918,Highway,170
+San Antonio,1941,352290.71,5,3,872,Side Street,170
+San Diego,1994,404031.75,6,5,5908,Side Street,180
+San Antonio,1932,212074.46,4,5,8602,Residential Street,170
+Houston,1953,716194.53,4,1,1382,Side Street,150
+Los Angeles,1972,918017.64,7,2,9272,Main Street,180
+San Diego,1941,653114.43,3,5,8472,Corner Lot,180
+Houston,1972,73347.64,3,1,1600,Corner Lot,150
+Philadelphia,1935,293340.75,5,5,820,Corner Lot,120
+San Diego,1960,423755.11,3,2,3545,Residential Street,180
+Philadelphia,1905,214192.45,5,4,8772,Main Street,120
+Chicago,1917,785733.42,1,4,864,Corner Lot,220
+Phoenix,1932,551064.08,6,4,,Side Street,130
+San Diego,1948,642290.79,5,2,7487,Residential Street,180
+Los Angeles,1988,288390.13,6,4,5026,Residential Street,180
+San Antonio,2010,852495.01,5,2,1158,Side Street,170
+San Diego,2000,843390,1,3,6123,Highway,180
+Chicago,1972,687346.39,7,1,3977,Highway,220
+Houston,1920,136877.25,5,4,3972,Residential Street,150
+San Diego,1970,849986.15,6,2,9173,Corner Lot,180
+New York,1911,358997.61,4,3,2855,Corner Lot,200
+New York,1961,951180.58,6,3,3446,Side Street,200
+San Antonio,1960,575359.56,5,1,9861,Corner Lot,170
+Houston,1922,741233.06,5,1,,Side Street,150
+San Diego,1940,336173.52,2,2,9148,Side Street,180
+San Antonio,1968,519030.43,1,1,8999,Side Street,170
+San Diego,2012,244777.2,2,2,4554,Main Street,180
+New York,1998,711139.87,2,5,,Side Street,200
+New York,1928,592647.17,1,5,3026,Residential Street,200
+San Antonio,1921,249897.82,1,1,9063,Highway,170
+Houston,2013,440056.88,2,2,4139,Highway,150
+San Diego,1976,397571.38,1,4,6590,Corner Lot,180
+San Diego,1998,866761.93,5,2,9742,Side Street,180
+Phoenix,1939,992506.13,4,5,5691,Highway,130
+San Diego,2005,522101.3,7,5,2586,Residential Street,180
+Houston,1993,190815.58,1,3,1300,Highway,150
+Phoenix,2016,273407.41,2,1,5717,Main Street,130
+San Antonio,2023,338632.84,7,2,2983,Residential Street,170
+Los Angeles,1998,91503.3,6,1,4417,Side Street,180
+San Antonio,1969,663335.73,6,4,4208,Residential Street,170
+Los Angeles,2021,989132.64,5,3,4721,Side Street,180
+Houston,1989,430838.66,6,4,9290,Residential Street,150
+San Antonio,1957,409522.03,3,5,5083,Side Street,170
+Philadelphia,1995,727513.98,3,5,,Corner Lot,120
+Philadelphia,1912,86812.76,6,2,4118,Corner Lot,120
+San Diego,1987,503937.54,2,4,6777,Residential Street,180
+Houston,1969,557177.02,7,2,2977,Main Street,150
+Los Angeles,1915,747466.65,6,1,4590,Main Street,180
+Houston,1943,679344.05,3,4,4537,Corner Lot,150
+Phoenix,1947,758696.49,2,4,9429,Side Street,130
+New York,1990,478001.75,3,1,924,Side Street,200
+Houston,1981,463835.12,1,4,7012,Highway,150
+Phoenix,1921,245486.76,4,3,6526,Residential Street,130
+Chicago,1936,351098.9,7,4,1530,Main Street,220
+San Antonio,1931,560283.05,6,3,3815,Main Street,170
+San Antonio,1973,425280.53,6,2,714,Highway,170
+San Antonio,1971,226865.99,5,4,2036,Side Street,170
+San Diego,1987,991906.91,6,5,1220,Side Street,180
+San Diego,1952,378840.27,7,2,9392,Highway,180
+Phoenix,1909,418483.66,1,1,3160,Residential Street,130
+Chicago,1900,309909.26,3,4,,Residential Street,220
+Houston,1939,616027.65,4,2,3779,Main Street,150
+San Antonio,2016,572627.14,7,3,5555,Main Street,170
+New York,1920,124413.73,7,3,3435,Corner Lot,200
+Philadelphia,1948,977899.02,3,3,3353,Side Street,120
+San Antonio,1930,311451.67,6,5,,Side Street,170
+Phoenix,2013,461589.55,6,1,1073,Main Street,130
+San Antonio,1975,854149.81,7,1,667,Side Street,170
+Phoenix,1956,812252.24,1,3,8938,Side Street,130
+San Diego,1985,564558.62,4,5,,Side Street,180
+Phoenix,1908,628047.63,1,3,9159,Residential Street,130
+Philadelphia,1993,612709.77,4,5,573,Main Street,120
+Los Angeles,1949,825494.03,6,3,3347,Side Street,180
+Houston,1909,480012.37,7,2,8604,Corner Lot,150
+Phoenix,1917,834635.35,4,5,6073,Main Street,130
+San Antonio,1915,733135.99,2,2,4145,Side Street,170
+San Diego,2003,296033.25,7,1,2333,Corner Lot,180
+Phoenix,1964,715545.08,6,1,2785,Side Street,130
+San Diego,1967,166851.93,3,1,1002,Main Street,180
+Philadelphia,1947,68820.86,2,2,2776,Corner Lot,120
+Houston,1961,850093.95,6,3,7048,Side Street,150
+Phoenix,1926,74639.83,4,1,8375,Highway,130
+San Diego,1953,255455.73,1,4,9552,Corner Lot,180
+San Diego,1953,280219.19,1,1,1139,Residential Street,180
+San Diego,1915,680893.9,1,3,7356,Residential Street,180
+New York,1930,987749.43,1,3,4648,Main Street,200
+Philadelphia,2008,365617.14,7,2,1640,Residential Street,120
+Chicago,1950,951469.31,6,1,4666,Side Street,220
+Phoenix,1912,238129.53,2,2,7294,Residential Street,130
+San Diego,1935,132320.28,1,5,3071,Corner Lot,180
+Chicago,1922,767934.61,3,5,7107,Corner Lot,220
+San Antonio,1979,227086.64,2,3,6192,Corner Lot,170
+Philadelphia,2022,692864.99,7,4,1132,Side Street,120
+Houston,1994,871856.97,4,3,7464,Residential Street,150
+Houston,1964,278098.04,7,3,5120,Residential Street,150
+San Diego,1959,869912.13,4,1,7848,Side Street,180
+Houston,1974,98676.37,7,1,4404,Corner Lot,150
+Philadelphia,1936,261751.95,3,5,7110,Corner Lot,120
+Chicago,1998,715742.7,1,3,2073,Side Street,220
+Houston,1968,291553.58,6,2,1260,Highway,150
+San Antonio,1954,941591.22,3,4,512,Corner Lot,170
+San Antonio,1922,538313.86,3,3,9262,Side Street,170
+San Diego,2006,859646.27,5,2,7672,Corner Lot,180
+Philadelphia,1927,580907.09,6,4,1658,Main Street,120
+Houston,1921,840784.44,4,5,5584,Side Street,150
+Los Angeles,1911,397226.1,3,4,2857,Highway,180
+Chicago,1929,602148.25,7,3,9758,Side Street,220
+San Diego,1915,785113.03,5,4,9339,Highway,180
+Houston,2008,727655.3,3,5,7772,Main Street,150
+San Diego,1953,202438.54,5,3,7355,Corner Lot,180
+Philadelphia,2005,902757.03,5,5,1336,Side Street,120
+Phoenix,1939,411000.96,5,4,9329,Corner Lot,130
+Phoenix,2010,682307.53,4,3,,Main Street,130
+Los Angeles,1936,592274.32,3,1,4341,Main Street,180
+Philadelphia,2024,578979.86,3,5,9622,Main Street,120
+Houston,1975,56975.32,4,3,4932,Side Street,150
+Houston,2006,537441.68,5,2,9812,Corner Lot,150
+San Diego,1955,339202.16,1,4,1131,Corner Lot,180
+Philadelphia,1989,870134.82,4,4,3892,Highway,120
+Philadelphia,1930,300863.58,2,5,7445,Corner Lot,120
+San Diego,1987,121329.97,6,2,5300,Corner Lot,180
+San Diego,2018,256968.16,7,4,7480,Highway,180
+New York,1938,650538.97,2,4,4730,Highway,200
+New York,1970,993541.53,3,2,6795,Main Street,200
+Houston,1917,68842.67,3,5,721,Highway,150
+Los Angeles,1914,498245.2,2,4,1379,Highway,180
+New York,1978,420870.02,4,3,6959,Corner Lot,200
+Phoenix,1989,523334.15,1,4,1131,Main Street,130
+Los Angeles,1933,785463.19,7,1,9753,Residential Street,180
+Phoenix,1987,637140.25,1,5,5889,Main Street,130
+Los Angeles,1962,819832.63,3,3,7212,Highway,180
+Chicago,1981,615478.23,2,4,6169,Main Street,220
+Houston,1945,271069.42,6,1,1241,Side Street,150
+Phoenix,2003,957593.76,7,3,6697,Highway,130
+San Diego,1972,521768.54,1,3,7342,Corner Lot,180
+San Antonio,1998,842098.1,2,2,5227,Main Street,170
+Phoenix,2011,711004.77,2,5,8373,Side Street,130
+Houston,2018,229179.5,6,2,8193,Corner Lot,150
+Chicago,2005,536087.5,2,5,7680,Side Street,220
+Los Angeles,1941,565944.28,1,5,5015,Side Street,180
+San Diego,1987,260673.15,3,4,7027,Residential Street,180
+New York,1958,739338.51,2,5,873,Residential Street,200
+Los Angeles,1985,855532.48,3,3,1981,Main Street,180
+Houston,1978,570898.99,6,5,1494,Main Street,150
+Phoenix,1903,842229.29,5,4,9016,Side Street,130
+Phoenix,1986,969770.68,7,5,,Highway,130
+Philadelphia,1945,846991.36,1,2,7250,Corner Lot,120
+Los Angeles,1900,821381.94,1,2,1141,Corner Lot,180
+Houston,1959,50115.59,1,4,8279,Side Street,150
+New York,1967,830782.21,1,1,9237,Corner Lot,200
+Los Angeles,1972,450868.6,7,4,3191,Corner Lot,180
+Philadelphia,1969,706591.75,5,1,,Main Street,120
+New York,1922,648161.89,2,4,3031,Residential Street,200
+Philadelphia,1953,815252.18,7,2,905,Side Street,120
+San Diego,1983,918654.8,3,3,7618,Corner Lot,180
+Chicago,1935,615997.97,4,5,3659,Main Street,220
+Phoenix,2011,624102.87,4,2,1070,Corner Lot,130
+San Diego,1978,288240.89,7,3,1819,Side Street,180
+Houston,1913,783375.35,2,2,6677,Main Street,150
+Houston,1960,70558.77,4,3,1181,Main Street,150
+New York,2007,615238.11,4,5,4867,Corner Lot,200
+San Antonio,1912,783139.46,6,5,6095,Residential Street,170
+Philadelphia,1972,325409.83,2,4,4512,Residential Street,120
+Chicago,1940,770600.37,6,3,5156,Side Street,220
+Philadelphia,1935,936078.47,3,1,5850,Residential Street,120
+San Diego,1919,453887.96,2,5,9485,Residential Street,180
+New York,1951,392340.31,1,2,2975,Side Street,200
+Phoenix,1955,751476.37,4,3,760,Side Street,130
+Houston,1991,103528.43,7,3,2234,Main Street,150
+Phoenix,1908,566136.49,7,3,3368,Side Street,130
+Philadelphia,1914,744758.59,5,5,4489,Side Street,120
+Philadelphia,1978,674043.98,5,4,,Highway,120
+Los Angeles,1909,95157.3,7,3,6482,Residential Street,180
+New York,2005,331113.85,5,4,9030,Side Street,200
+Philadelphia,1979,119126.82,7,5,8783,Side Street,120
+Houston,1916,268912.45,2,5,2849,Side Street,150
+Houston,2006,743736.8,4,4,7184,Main Street,150
+Houston,1928,109063.29,3,4,,Residential Street,150
+Phoenix,1967,813203.66,7,5,8723,Highway,130
+San Antonio,2010,472729.24,7,1,5091,Residential Street,170
+San Antonio,1970,981794.84,5,4,5325,Corner Lot,170
+Los Angeles,1976,646452.83,3,1,8270,Residential Street,180
+Philadelphia,1964,509209.93,7,5,6041,Highway,120
+San Antonio,1996,295388.11,1,2,4908,Main Street,170
+Los Angeles,1913,407682.58,5,2,7885,Residential Street,180
+Los Angeles,2012,167622.02,7,5,8481,Side Street,180
+Phoenix,2011,716014.43,7,5,,Highway,130
+Los Angeles,1915,743725.72,3,5,5570,Side Street,180
+Houston,1923,902776.5,3,5,863,Main Street,150
+Phoenix,1953,228101.45,3,3,2457,Corner Lot,130
+New York,1983,783638.08,7,3,9496,Side Street,200
+San Antonio,1902,837333.73,3,1,1182,Main Street,170
+Houston,1919,979694.99,2,1,8981,Corner Lot,150
+Philadelphia,1926,792888.22,3,1,2951,Residential Street,120
+San Diego,1997,517249.62,5,1,8877,Side Street,180
+San Diego,2011,432101.74,4,2,7994,Highway,180
+Los Angeles,1908,948090.39,5,3,,Main Street,180
+San Antonio,1915,216218.14,4,4,5382,Highway,170
+Phoenix,1954,192975.7,1,2,5301,Corner Lot,130
+Los Angeles,1929,552182.36,6,3,1784,Side Street,180
+Los Angeles,1984,755940.72,6,5,5954,Residential Street,180
+Philadelphia,1920,373937.06,5,1,4711,Corner Lot,120
+Phoenix,2016,442108.83,5,4,9621,Residential Street,130
+Houston,2005,378047.23,2,4,5198,Highway,150
+Chicago,1922,482688.27,6,1,6941,Main Street,220
+Philadelphia,1902,121266.82,1,3,2033,Highway,120
+Chicago,1977,687871.26,1,5,8826,Highway,220
+New York,1970,280474.67,7,3,2513,Highway,200
+San Antonio,1945,402320.86,7,5,4128,Residential Street,170
+San Antonio,1961,757089.87,6,4,6216,Residential Street,170
+San Diego,1933,115077.15,5,1,7506,Highway,180
+Los Angeles,1989,131652.23,5,2,4477,Highway,180
+New York,2010,778526.92,5,1,3733,Main Street,200
+Los Angeles,2007,824156.27,7,1,8667,Highway,180
+Chicago,1934,478298.58,5,3,,Main Street,220
+Chicago,1955,585939.29,4,2,8235,Main Street,220
+Chicago,1963,298360.91,5,5,1633,Highway,220
+Phoenix,1933,752334.09,1,2,6564,Main Street,130
+San Diego,1906,748191.96,1,2,2008,Side Street,180
+Houston,1905,516719.96,6,5,8758,Residential Street,150
+San Diego,1914,551288.5,1,2,7751,Highway,180
+Phoenix,1948,194589.21,4,5,1550,Highway,130
+Houston,2007,347920.55,2,3,7774,Corner Lot,150
+Phoenix,1911,928868.69,1,3,2662,Corner Lot,130
+Los Angeles,2011,157360.82,2,3,4903,Residential Street,180
+San Diego,2024,487626.56,2,4,8289,Highway,180
+Chicago,1915,703330.76,6,4,678,Corner Lot,220
+Los Angeles,1947,905650.27,6,2,8305,Side Street,180
+San Diego,1981,564050.48,5,4,7106,Corner Lot,180
+New York,2024,471675.31,2,4,9562,Main Street,200
+Los Angeles,2006,662633.41,6,1,8314,Corner Lot,180
+Chicago,1953,233693.9,3,1,4008,Corner Lot,220
+San Diego,2024,435916.81,6,5,869,Corner Lot,180
+Philadelphia,1989,730258.31,2,5,9342,Residential Street,120
+New York,1936,917796.8,3,4,5787,Corner Lot,200
+Los Angeles,1927,220908.86,3,3,7351,Main Street,180
+Philadelphia,1974,702135.7,6,5,572,Side Street,120
+Los Angeles,1948,688308.03,2,5,9905,Residential Street,180
+San Antonio,1954,936810.65,5,5,,Residential Street,170
+San Antonio,1913,597387.24,4,4,6467,Corner Lot,170
+New York,1948,969838.62,3,1,8303,Residential Street,200
+Los Angeles,1932,140769.17,2,1,7718,Corner Lot,180
+Phoenix,1971,955684.73,2,2,5369,Highway,130
+Houston,2012,743212.21,3,3,2256,Highway,150
+Phoenix,1900,476110.45,2,4,1537,Residential Street,130
+Los Angeles,1923,792590.55,3,3,812,Corner Lot,180
+Houston,1911,862340.62,2,2,6622,Side Street,150
+Los Angeles,1967,624897,4,5,4852,Main Street,180
+Chicago,1900,717900.05,5,1,1009,Residential Street,220
+Los Angeles,1918,725451.37,4,5,3694,Residential Street,180
+Chicago,1998,709982.16,4,4,8240,Highway,220
+New York,1947,360824.12,2,2,5856,Highway,200
+Los Angeles,1975,143523.61,2,1,2969,Highway,180
+Houston,1961,558065.67,1,4,1940,Main Street,150
+Houston,1980,921945.19,3,3,7001,Residential Street,150
+Phoenix,2019,255599.55,6,2,6703,Main Street,130
+San Diego,1916,469148.85,1,2,4763,Main Street,180
+San Diego,1938,126220.7,4,5,3864,Side Street,180
+San Diego,1904,742347.78,3,3,8560,Main Street,180
+Philadelphia,1918,401447.57,7,5,7033,Corner Lot,120
+Chicago,1912,448977.46,4,1,1954,Corner Lot,220
+New York,1979,79632.54,1,4,877,Side Street,200
+San Antonio,1942,814402.36,3,3,8577,Highway,170
+Houston,1983,773329.77,7,3,4635,Side Street,150
+Los Angeles,1925,603499.86,4,5,9604,Residential Street,180
+Los Angeles,1987,374189.27,6,4,3397,Main Street,180
+New York,1930,992252.33,6,4,8419,Main Street,200
+Houston,1935,868479.6,5,3,5334,Highway,150
+San Antonio,1959,519493.58,6,5,6081,Side Street,170
+Philadelphia,1915,603422.99,4,3,4348,Highway,120
+Phoenix,2013,135606.75,1,3,6318,Highway,130
+New York,1913,494204.06,4,3,3241,Main Street,200
+Chicago,1943,116456.65,7,3,2887,Main Street,220
+Phoenix,1957,251572.4,5,1,3025,Side Street,130
+Chicago,1909,237083.2,1,3,7761,Highway,220
+New York,2014,294564.87,4,4,5166,Residential Street,200
+San Antonio,1948,599805.2,4,2,8700,Side Street,170
+Chicago,2016,184611.16,5,5,7680,Corner Lot,220
+San Diego,1927,712268.43,4,2,3569,Side Street,180
+New York,1985,727298.95,1,2,3829,Highway,200
+Houston,1921,141555.82,7,2,6520,Main Street,150
+Philadelphia,1917,100561.4,3,3,7993,Main Street,120
+San Antonio,2018,630807.73,2,3,2677,Highway,170
+San Antonio,1992,53568.22,6,2,2395,Highway,170
+New York,1991,982371.53,2,3,5246,Corner Lot,200
+Philadelphia,1926,636683.74,4,4,,Highway,120
+San Antonio,1949,941955.37,5,3,7318,Main Street,170
+San Antonio,1962,666657.82,2,1,4912,Corner Lot,170
+Philadelphia,1986,477759.23,6,2,791,Highway,120
+San Diego,1999,294256.47,4,4,2214,Corner Lot,180
+Phoenix,2008,179041.32,4,3,7506,Highway,130
+Phoenix,2007,576063.64,6,5,3592,Side Street,130
+San Diego,1909,163933.99,4,3,6157,Corner Lot,180
+Philadelphia,1915,256504.96,4,1,,Main Street,120
+Los Angeles,1919,493315.2,1,1,1721,Main Street,180
+Phoenix,1992,123785.64,7,4,1053,Highway,130
+San Antonio,1959,295875.5,4,1,537,Residential Street,170
+San Antonio,1960,909971.81,4,4,7183,Highway,170
+Philadelphia,1901,277647.24,2,2,5866,Corner Lot,120
+New York,1907,167728.75,2,5,,Residential Street,200
+Houston,1943,236827.27,5,3,783,Side Street,150
+Chicago,1959,322264.77,6,5,6947,Highway,220
+San Diego,1942,526208.81,4,4,7926,Residential Street,180
+San Diego,2006,826991.51,5,1,9548,Highway,180
+Houston,1978,164116.89,5,5,4204,Side Street,150
+Phoenix,1992,104324.75,6,1,8375,Highway,130
+New York,1936,189859.4,1,3,3309,Residential Street,200
+San Antonio,1957,345549.11,6,4,4310,Main Street,170
+Chicago,2008,117743.79,1,4,5074,Corner Lot,220
+Phoenix,1988,681617.07,2,1,8278,Side Street,130
+San Antonio,1989,64563.12,4,3,5319,Side Street,170
+Philadelphia,1956,221456.04,2,1,3892,Side Street,120
+Phoenix,1919,669970.83,5,4,2618,Side Street,130
+Philadelphia,1982,590910.41,6,3,8121,Side Street,120
+San Antonio,1980,497857.95,6,5,3131,Main Street,170
+Chicago,2004,542652.01,6,1,2107,Main Street,220
+Los Angeles,1964,296508.57,5,5,3900,Highway,180
+San Diego,1960,133773.16,1,2,2294,Main Street,180
+Los Angeles,1923,904088.77,2,1,8640,Main Street,180
+Philadelphia,1945,185841.47,2,2,4883,Side Street,120
+Philadelphia,2007,834965.82,4,1,2233,Side Street,120
+Houston,1914,947237.44,3,5,6924,Residential Street,150
+Philadelphia,1906,681586.4,7,5,1894,Side Street,120
+New York,1973,805543.85,7,5,4270,Main Street,200
+Los Angeles,1964,703582.66,3,2,6301,Side Street,180
+Los Angeles,2001,963364,2,2,2186,Corner Lot,180
+Chicago,1943,62762.23,5,1,8489,Highway,220
+Los Angeles,1928,777120.65,4,4,1530,Side Street,180
+Houston,2020,407771.1,2,3,,Highway,150
+Phoenix,2001,963243.64,3,1,7329,Corner Lot,130
+San Diego,1920,333391.42,4,1,3965,Corner Lot,180
+San Diego,2019,742779,1,4,9304,Main Street,180
+San Antonio,1924,243256.56,7,2,895,Highway,170
+Houston,1980,729901.48,3,4,4254,Corner Lot,150
+Philadelphia,1966,179941.43,3,2,4597,Corner Lot,120
+Houston,1995,125110.84,5,1,6453,Corner Lot,150
+Chicago,1950,190814.63,5,1,4186,Side Street,220
+Houston,1939,858682.78,2,1,9678,Side Street,150
+San Diego,1961,381056.26,3,3,6654,Main Street,180
+Phoenix,1992,500853.57,5,2,2840,Residential Street,130
+Phoenix,1909,191875.52,2,4,7542,Residential Street,130
+New York,2020,92998.71,7,2,6299,Corner Lot,200
+Phoenix,1910,297854.99,6,1,8391,Residential Street,130
+Houston,1976,248465.86,1,2,664,Corner Lot,150
+Los Angeles,1936,519003.51,1,5,9389,Highway,180
+San Diego,1988,472651.35,3,3,5596,Side Street,180
+San Diego,1994,469702.68,2,3,5465,Main Street,180
+Los Angeles,1942,512189.26,7,2,6090,Residential Street,180
+San Diego,1991,991674.94,6,2,6368,Residential Street,180
+Phoenix,1986,829199.55,3,2,5519,Corner Lot,130
+Chicago,1972,664822.1,2,1,711,Highway,220
+San Diego,1917,310548.38,2,4,7464,Highway,180
+Phoenix,1909,826818.42,1,1,3438,Highway,130
+San Antonio,1951,232660.46,7,4,9226,Residential Street,170
+San Diego,2019,495298.93,2,5,5421,Highway,180
+Philadelphia,1999,204890.5,3,1,9546,Highway,120
+Phoenix,1955,607148.74,5,2,5088,Corner Lot,130
+Philadelphia,1983,591012.84,1,5,2094,Highway,120
+New York,1901,715316.71,2,3,9003,Corner Lot,200
+Houston,1919,978123.26,5,4,3724,Corner Lot,150
+Phoenix,1933,541999.25,3,4,8872,Highway,130
+Houston,1915,868851.38,6,5,5145,Residential Street,150
+San Antonio,2008,638727.98,1,2,3003,Residential Street,170
+Houston,1924,373888.64,7,1,5928,Main Street,150
+Chicago,1920,839615.54,5,2,1130,Main Street,220
+San Diego,1976,562934.39,6,2,2334,Side Street,180
+Houston,1944,934507.89,7,4,7585,Corner Lot,150
+New York,2019,52645,1,5,2468,Side Street,200
+Los Angeles,1978,458384.92,5,5,1731,Corner Lot,180
+Houston,1983,208053.47,7,4,931,Residential Street,150
+Chicago,1922,845248.99,4,1,7991,Main Street,220
+Los Angeles,2000,204736.64,6,5,7494,Corner Lot,180
+San Diego,1964,813740.12,2,3,9341,Highway,180
+San Diego,2018,137129.5,7,5,7709,Highway,180
+San Diego,1957,597281.52,7,3,4294,Highway,180
+San Antonio,1948,606476.78,5,2,3142,Side Street,170
+Chicago,1990,307274.68,7,3,7508,Residential Street,220
+San Antonio,1923,122558.1,4,5,6996,Residential Street,170
+San Antonio,2016,428989.95,3,2,6598,Corner Lot,170
+San Antonio,1969,594590.18,2,3,7582,Residential Street,170
+New York,1992,319303.05,4,4,8893,Corner Lot,200
+Los Angeles,1971,771751.82,2,1,1990,Highway,180
+Chicago,1942,278713.79,6,1,1454,Main Street,220
+Phoenix,1937,380322.6,7,5,2048,Corner Lot,130
+Phoenix,1980,491482.3,3,3,4039,Corner Lot,130
+Los Angeles,1926,666905.27,5,2,9318,Residential Street,180
+Chicago,1903,275524.71,4,2,7513,Side Street,220
+San Diego,1907,844768.66,2,1,7675,Corner Lot,180
+Los Angeles,1972,701661.87,7,3,3814,Corner Lot,180
+Los Angeles,1939,779518.85,6,3,687,Residential Street,180
+San Diego,1993,662411.95,2,1,3244,Corner Lot,180
+Phoenix,1911,148746.35,3,1,4349,Corner Lot,130
+New York,1918,687826.61,6,5,7802,Side Street,200
+New York,1954,507837.85,1,3,8968,Residential Street,200
+Phoenix,1995,377521.11,7,5,7676,Side Street,130
+Houston,1933,598733.69,3,4,3731,Side Street,150
+Phoenix,1995,88505.62,7,4,4507,Highway,130
+New York,1994,477542.59,4,2,,Residential Street,200
+Phoenix,1990,901596.13,6,2,7377,Highway,130
+Chicago,1910,908019.82,3,1,2792,Corner Lot,220
+San Antonio,1948,488581.08,1,4,584,Residential Street,170
+Houston,2013,681211.22,3,4,5405,Corner Lot,150
+Philadelphia,1986,996457.07,1,2,9245,Residential Street,120
+New York,1949,914249.39,4,1,6165,Corner Lot,200
+San Diego,1993,827386.35,1,2,1028,Corner Lot,180
+Los Angeles,2020,934471.96,3,3,,Side Street,180
+San Diego,1953,89066.08,2,3,8300,Corner Lot,180
+San Antonio,1959,436859.21,1,3,7891,Residential Street,170
+Philadelphia,1984,274316.91,6,2,,Corner Lot,120
+Phoenix,1929,871976.03,4,4,880,Corner Lot,130
+San Diego,1908,183203.48,5,5,,Corner Lot,180
+San Antonio,1917,307908.16,7,5,2651,Main Street,170
+Phoenix,2011,995794.89,2,3,5499,Side Street,130
+New York,1961,593513.43,2,3,612,Main Street,200
+Philadelphia,1942,98259.77,7,4,6489,Side Street,120
+San Antonio,2011,59890.75,6,3,4508,Highway,170
+Chicago,1923,480947.59,2,3,7397,Main Street,220
+Los Angeles,1917,508591.53,2,5,9600,Side Street,180
+Phoenix,1977,299797.54,1,2,5164,Highway,130
+Philadelphia,2013,925040.88,2,1,4317,Highway,120
+Houston,1953,456420.77,1,5,5227,Main Street,150
+Philadelphia,1975,107713.4,4,3,5238,Main Street,120
+San Diego,1926,896467.49,1,1,9513,Side Street,180
+Chicago,1971,488627.87,1,1,2066,Side Street,220
+Los Angeles,1951,140381.43,7,1,1189,Main Street,180
+San Antonio,1922,433148.79,6,1,4576,Side Street,170
+Houston,1991,744388.17,5,1,3260,Highway,150
+Los Angeles,1917,294994.74,3,1,8798,Corner Lot,180
+Los Angeles,2024,495531.92,7,4,9644,Side Street,180
+San Antonio,1909,664950.69,7,5,2165,Corner Lot,170
+Houston,1942,397349.02,6,1,1093,Corner Lot,150
+San Antonio,1953,492423.49,1,4,1482,Corner Lot,170
+Philadelphia,1999,788599.35,4,2,3929,Corner Lot,120
+San Diego,1982,917458.86,3,5,3960,Side Street,180
+San Diego,1903,866324.26,2,5,8888,Side Street,180
+New York,2020,154682.34,4,3,9808,Corner Lot,200
+New York,1938,418609.88,3,4,7214,Residential Street,200
+Philadelphia,1931,322306.61,3,4,3116,Corner Lot,120
+Philadelphia,2006,700689.55,5,3,1659,Corner Lot,120
+San Diego,1933,345258.86,2,3,4870,Highway,180
+San Antonio,1926,319127.53,2,4,4037,Main Street,170
+San Diego,1995,620013.7,7,2,4098,Corner Lot,180
+Chicago,2004,488671.56,2,2,2407,Highway,220
+San Antonio,1913,379710.81,1,3,4190,Highway,170
+Chicago,1926,791991.19,1,1,5794,Residential Street,220
+San Antonio,2003,440434.35,3,2,7940,Side Street,170
+Philadelphia,1916,301470.65,6,3,6292,Residential Street,120
+Phoenix,2013,713412.58,4,2,1100,Highway,130
+Houston,1978,455620.35,6,5,783,Main Street,150
+Los Angeles,2012,97965.7,5,1,3501,Side Street,180
+New York,1931,584454.45,4,4,3709,Corner Lot,200
+Los Angeles,1915,205260.97,6,1,7265,Side Street,180
+New York,1937,155881.09,4,1,6451,Main Street,200
+Chicago,2020,418843.5,2,3,1309,Side Street,220
+Los Angeles,1954,682487.37,4,2,7325,Side Street,180
+New York,1962,308051.09,2,5,3402,Main Street,200
+Los Angeles,1917,404190.93,3,5,6846,Main Street,180
+Houston,1993,385052.23,5,3,4753,Side Street,150
+New York,1942,218951.56,2,5,6430,Residential Street,200
+Los Angeles,1900,162038.38,1,3,3999,Main Street,180
+Philadelphia,1954,898804.29,1,3,,Residential Street,120
+Houston,1900,672669.27,4,3,9927,Highway,150
+Philadelphia,2006,188497.26,5,1,7848,Main Street,120
+New York,1926,679078.4,3,2,1443,Residential Street,200
+Phoenix,1984,254053.09,5,3,3586,Residential Street,130
+San Antonio,1976,740938.92,1,3,4481,Highway,170
+San Antonio,1958,155265.18,7,5,3228,Residential Street,170
+New York,1988,239847.13,3,2,1855,Side Street,200
+New York,2007,528424.66,2,1,6390,Highway,200
+Los Angeles,1904,653727.39,3,5,3024,Corner Lot,180
+Phoenix,1979,136042.99,7,2,9908,Residential Street,130
+New York,1998,95047.2,5,2,2762,Main Street,200
+Philadelphia,1927,759164,5,2,7822,Highway,120
+Chicago,1900,367277.37,2,5,,Highway,220
+San Diego,1946,741783.08,7,3,3811,Highway,180
+Houston,1956,749488.37,2,5,2588,Highway,150
+Los Angeles,2009,898729.47,7,5,8940,Corner Lot,180
+San Diego,1964,230741.04,1,1,7759,Corner Lot,180
+Houston,2021,315605.86,3,3,5410,Corner Lot,150
+Los Angeles,1939,397299.06,3,3,3470,Highway,180
+San Diego,1943,521116.74,2,1,7035,Highway,180
+Los Angeles,1974,954069.25,4,5,712,Corner Lot,180
+Los Angeles,2024,888697.08,2,3,7380,Side Street,180
+Houston,1905,416277.95,3,3,6226,Residential Street,150
+Philadelphia,1984,524482.35,5,4,7704,Corner Lot,120
+New York,1995,687437.18,5,4,2641,Residential Street,200
+Philadelphia,2020,466876.84,5,1,2562,Main Street,120
+Philadelphia,1964,78773.69,6,5,9830,Main Street,120
+Chicago,2012,879904.58,2,4,7165,Corner Lot,220
+New York,2003,512767.89,7,1,3020,Residential Street,200
+Phoenix,1923,867973.6,3,3,6593,Corner Lot,130
+Houston,2011,951354.32,4,1,4363,Highway,150
+San Diego,1972,468707.77,6,3,2857,Highway,180
+Los Angeles,1992,256701.44,5,5,4352,Corner Lot,180
+New York,1977,458970.94,7,1,1939,Main Street,200
+New York,1917,314522.97,2,5,6906,Side Street,200
+Philadelphia,1944,158881.81,1,4,9914,Highway,120
+San Antonio,1933,275027.75,5,2,3043,Main Street,170
+New York,1983,933923.35,4,5,2047,Corner Lot,200
+Philadelphia,1992,80251.57,7,3,,Corner Lot,120
+Houston,1941,393899.12,1,4,1280,Corner Lot,150
+Houston,1992,725424.26,5,1,6313,Side Street,150
+Los Angeles,1935,880827.48,4,1,3773,Highway,180
+San Antonio,1964,664591.84,7,5,9993,Highway,170
+San Diego,1919,638944.44,6,3,1230,Main Street,180
+Houston,2011,439363.17,3,3,5917,Highway,150
+New York,1907,66606.09,6,3,2588,Main Street,200
+San Diego,1990,673683.22,6,5,3940,Highway,180
+Los Angeles,1954,204462.89,1,5,854,Highway,180
+Houston,1991,729118.52,7,2,8274,Corner Lot,150
+Chicago,1950,86129.74,4,5,6688,Highway,220
+Philadelphia,1999,948280.55,6,4,3632,Side Street,120
+New York,1969,251513.54,4,1,4910,Side Street,200
+San Antonio,2000,687336.62,3,4,7199,Side Street,170
+Philadelphia,1970,100451.16,7,1,,Highway,120
+Los Angeles,2008,743659.72,5,3,8519,Residential Street,180
+San Antonio,2012,876546.27,7,1,8865,Side Street,170
+Chicago,2012,991345.41,4,3,6701,Highway,220
+Houston,1964,429202.99,5,1,1904,Side Street,150
+Houston,1972,238775.11,2,4,5925,Corner Lot,150
+Chicago,1958,572330.23,6,4,2688,Main Street,220
+Houston,1930,776615.8,5,4,1827,Residential Street,150
+Phoenix,1942,727318.55,1,4,7518,Main Street,130
+Philadelphia,1922,524600.68,4,4,9367,Residential Street,120
+Phoenix,1913,801912.83,5,4,5643,Corner Lot,130
+Houston,1959,735833.97,5,4,4761,Residential Street,150
+San Diego,2020,414149.86,1,1,3312,Side Street,180
+Los Angeles,2008,957045.84,3,1,1177,Residential Street,180
+Houston,1945,367059.27,1,1,8962,Residential Street,150
+Los Angeles,1930,263173.1,6,5,3128,Corner Lot,180
+New York,2015,700744.47,1,4,,Residential Street,200
+Houston,2011,842721.09,5,4,4675,Residential Street,150
+Los Angeles,1933,408940.69,5,5,8922,Main Street,180
+Phoenix,1948,210848,7,4,,Main Street,130
+Los Angeles,1975,329400.39,1,5,2771,Highway,180
+New York,1929,351538.86,6,5,5903,Main Street,200
+Philadelphia,1953,888578.57,3,1,6292,Highway,120
+Houston,1980,709984.54,3,2,3092,Residential Street,150
+Los Angeles,1954,741361.65,5,5,3483,Main Street,180
+Philadelphia,1952,727437.23,5,2,9583,Main Street,120
+New York,1921,296555.53,5,5,8769,Main Street,200
+Houston,1943,931347,5,3,4381,Residential Street,150
+Los Angeles,1930,889741.25,1,4,3252,Corner Lot,180
+Philadelphia,1996,912130.43,3,5,1055,Corner Lot,120
+Chicago,1931,78055.58,4,4,2161,Corner Lot,220
+Houston,2015,95761.42,6,2,7033,Residential Street,150
+Los Angeles,1988,211588.84,5,3,2374,Side Street,180
+San Antonio,1941,404442.6,7,4,9139,Corner Lot,170
+Phoenix,1933,629945.87,3,5,1523,Side Street,130
+New York,1967,468427.18,2,2,9654,Highway,200
+Los Angeles,1980,360449.2,3,4,6152,Highway,180
+Los Angeles,2022,712649.44,3,1,1176,Highway,180
+San Antonio,2000,223823.6,6,3,6226,Side Street,170
+Chicago,1996,288321.2,7,1,2797,Corner Lot,220
+Houston,1982,417088.98,5,4,6873,Highway,150
+New York,2007,969437.05,7,3,6176,Highway,200
+Houston,2005,465386.31,5,3,1099,Residential Street,150
+Phoenix,1937,320505.05,3,4,3478,Main Street,130
+San Diego,2008,572452.88,3,3,2622,Main Street,180
+Houston,1959,198212.72,4,1,2321,Residential Street,150
+Houston,1929,920129.72,6,2,6188,Side Street,150
+Phoenix,1949,673918.59,4,5,7529,Corner Lot,130
+San Antonio,1914,79603.05,3,2,3247,Residential Street,170
+Chicago,1922,732351.18,2,2,4055,Side Street,220
+Houston,1998,223765.25,7,1,6292,Side Street,150
+San Antonio,1919,443320.87,2,5,2609,Highway,170
+Philadelphia,1954,833275.73,5,2,9423,Side Street,120
+Philadelphia,1901,110397.08,3,4,7720,Side Street,120
+New York,1965,291887.77,5,5,9462,Side Street,200
+San Diego,1965,569994.53,5,1,3317,Side Street,180
+Los Angeles,1972,688851.03,3,5,8638,Residential Street,180
+Houston,1977,182080.53,5,5,6644,Residential Street,150
+Chicago,1919,275328.9,5,5,9711,Residential Street,220
+San Antonio,2015,891979.92,2,4,5401,Highway,170
+Houston,1991,107446.19,4,2,2153,Side Street,150
+Houston,2009,430457.27,3,5,4217,Side Street,150
+Chicago,1906,961453.18,7,5,8511,Side Street,220
+Phoenix,1961,269054.58,3,3,3071,Residential Street,130
+New York,1925,544559.5,4,1,3058,Main Street,200
+Houston,2001,682255.31,7,3,3247,Corner Lot,150
+Los Angeles,1900,948222.85,3,5,700,Residential Street,180
+San Antonio,1914,410356.24,3,4,2501,Highway,170
+Houston,1969,346005.36,1,1,7396,Side Street,150
+San Diego,1914,439765.19,4,4,2503,Highway,180
+New York,1905,538025.63,4,4,,Highway,200
+San Antonio,1920,809053.18,4,4,6399,Main Street,170
+New York,1998,982108.66,7,4,9408,Side Street,200
+San Diego,1963,459827.27,7,3,752,Highway,180
+Phoenix,2016,739050.86,5,3,2823,Side Street,130
+Phoenix,1941,625605.33,2,1,2250,Highway,130
+Phoenix,2008,623652.4,6,4,3460,Main Street,130
+San Antonio,1927,693435.76,1,5,9912,Main Street,170
+San Diego,1988,385940.78,7,3,5899,Residential Street,180
+Philadelphia,1949,768470.28,1,5,9240,Highway,120
+Phoenix,1955,971498.95,2,2,5576,Highway,130
+Philadelphia,1905,316264.41,7,2,8419,Side Street,120
+Chicago,1960,378884.83,7,2,4495,Highway,220
+Philadelphia,2021,245548.56,2,4,4463,Main Street,120
+San Antonio,2011,626554.24,1,4,1710,Residential Street,170
+Phoenix,1918,723235.16,5,5,9703,Residential Street,130
+Houston,1919,639362.47,5,1,2266,Side Street,150
+San Diego,1914,282657.99,5,5,7681,Corner Lot,180
+Phoenix,1921,303047.59,5,4,8100,Residential Street,130
+Los Angeles,1935,455574.71,6,1,7116,Highway,180
+Houston,2009,829433.05,1,5,4143,Corner Lot,150
+Philadelphia,1979,195466.51,4,3,8701,Main Street,120
+Chicago,1966,695518.15,1,3,6441,Residential Street,220
+Los Angeles,1974,196282.86,6,4,4564,Residential Street,180
+San Antonio,1952,458289.62,7,2,9029,Main Street,170
+Chicago,1985,782101.96,2,4,7149,Residential Street,220
+Phoenix,1960,388366.47,2,2,2960,Highway,130
+San Antonio,2003,217115.47,4,2,,Corner Lot,170
+New York,1939,267211.46,5,4,4670,Corner Lot,200
+Philadelphia,1944,276461.02,1,2,3405,Side Street,120
+Philadelphia,2019,449317.09,6,4,2092,Side Street,120
+San Diego,1971,404269.08,3,2,4934,Side Street,180
+Los Angeles,1906,110085.32,6,3,626,Main Street,180
+Chicago,1959,87665.11,5,2,2651,Side Street,220
+Phoenix,1949,533665.73,2,2,8288,Residential Street,130
+Philadelphia,2000,155278.29,1,5,9454,Highway,120
+Houston,1900,667578,1,3,3641,Residential Street,150
+New York,1900,692590.95,6,2,1921,Side Street,200
+Chicago,1981,651606.42,6,1,4783,Corner Lot,220
+Los Angeles,1930,494395.41,7,1,6421,Corner Lot,180
+New York,2008,350887.2,5,1,6442,Highway,200
+San Diego,1976,276070.76,6,4,5773,Side Street,180
+San Diego,1969,538100.67,3,3,9084,Side Street,180
+Philadelphia,1908,865020.38,7,5,1875,Side Street,120
+Houston,1982,628613.34,3,1,1424,Corner Lot,150
+Chicago,1968,936261.87,2,2,,Side Street,220
+San Diego,1974,269915.71,3,4,7495,Corner Lot,180
+Houston,1986,220332.04,2,3,1891,Residential Street,150
+San Antonio,1979,422869.89,4,5,9877,Corner Lot,170
+Los Angeles,1904,862624.65,7,3,4212,Highway,180
+San Antonio,1944,659666.5,7,1,8276,Main Street,170
+Los Angeles,1961,512835.7,6,2,5235,Side Street,180
+Houston,2003,918423.23,2,3,9254,Main Street,150
+San Diego,1993,714855.74,5,3,2461,Main Street,180
+San Diego,2020,999690.82,4,4,8807,Main Street,180
+Phoenix,1974,647006.68,6,3,7945,Main Street,130
+New York,1977,356709.57,2,4,2579,Main Street,200
+Los Angeles,1968,905267,6,2,822,Main Street,180
+Chicago,1921,593228.31,4,4,5243,Main Street,220
+Phoenix,1942,983285.15,3,1,8036,Highway,130
+Phoenix,1980,355924.9,6,3,1234,Highway,130
+New York,1942,576245.14,6,4,,Main Street,200
+San Diego,1974,970607.43,1,1,8986,Highway,180
+Chicago,1979,694323.17,5,3,5368,Main Street,220
+San Antonio,2005,430052.44,3,2,3984,Main Street,170
+Los Angeles,1909,426277.3,6,4,2591,Corner Lot,180
+Chicago,1998,394605.18,4,5,3193,Highway,220
+Los Angeles,1968,502144.66,3,4,3880,Residential Street,180
+New York,1954,848517,7,2,8076,Side Street,200
+Houston,1956,320552.94,6,5,5469,Main Street,150
+Chicago,2007,457697.27,5,5,8211,Residential Street,220
+Houston,1968,553701.68,2,3,633,Residential Street,150
+San Antonio,1929,578186.82,2,3,8713,Side Street,170
+Houston,1931,870277.13,3,3,8409,Residential Street,150
+San Diego,2007,659717.7,1,3,6878,Residential Street,180
+San Antonio,1953,792325.3,4,4,,Highway,170
+New York,1994,351811.25,5,1,5503,Residential Street,200
+Houston,1987,205188.69,5,1,3377,Residential Street,150
+San Antonio,2022,952935.49,7,5,5668,Corner Lot,170
+San Antonio,2010,335564.45,6,5,8649,Corner Lot,170
+San Diego,1944,324499.37,1,5,6736,Highway,180
+Los Angeles,2003,98879.12,2,3,4315,Side Street,180
+Phoenix,1936,291509.39,4,1,6178,Side Street,130
+Los Angeles,1972,742235.87,2,4,1058,Corner Lot,180
+Los Angeles,1983,885244.24,6,3,7629,Side Street,180
+Philadelphia,1947,830638.07,7,1,4481,Main Street,120
+San Diego,1917,238109.51,2,4,6170,Corner Lot,180
+Houston,1914,956104.77,1,2,1900,Highway,150
+Philadelphia,2020,288414.18,1,5,3123,Main Street,120
+New York,1910,679591.69,4,1,5470,Side Street,200
+San Antonio,1976,472876.46,5,5,7982,Highway,170
+Chicago,1990,734661.21,3,3,3766,Side Street,220
+Philadelphia,1974,84926.99,6,3,4324,Main Street,120
+New York,1943,249587.29,1,3,3042,Highway,200
+New York,1914,308197.56,7,4,8300,Residential Street,200
+San Diego,1959,739724.05,3,2,9433,Residential Street,180
+San Antonio,2011,667194.66,7,1,2324,Side Street,170
+Philadelphia,1931,440478.12,5,4,5828,Main Street,120
+Chicago,1950,989363.06,6,3,9015,Main Street,220
+Los Angeles,1931,222465.7,3,1,5189,Highway,180
+San Antonio,1925,607952.15,2,3,3042,Side Street,170
+Los Angeles,1979,331716.49,5,2,1466,Main Street,180
+Houston,1969,784051.76,5,5,8721,Side Street,150
+Philadelphia,2006,245775.36,6,5,7659,Highway,120
+New York,1980,515963.81,7,1,7536,Corner Lot,200
+Phoenix,1999,546841.8,1,1,4563,Residential Street,130
+Phoenix,1991,543951.68,6,5,4457,Main Street,130
+San Diego,1938,764758.17,6,4,4366,Corner Lot,180
+Philadelphia,2002,935960.5,4,3,1594,Corner Lot,120
+San Diego,1993,680346.85,2,5,6044,Highway,180
+Houston,1957,961237.85,3,4,6532,Corner Lot,150
+Houston,1926,931716.62,3,4,9844,Corner Lot,150
+New York,1923,281920.22,5,3,9493,Residential Street,200
+Chicago,1944,716632.61,7,5,8569,Highway,220
+Chicago,2021,688570.81,4,2,9359,Corner Lot,220
+Chicago,2010,352044.44,4,4,905,Main Street,220
+Phoenix,2011,544488.72,5,5,3008,Main Street,130
+Houston,1957,794077.31,6,3,4049,Side Street,150
+Phoenix,1956,867641.72,3,5,8691,Side Street,130
+New York,1984,542923.95,4,5,4520,Corner Lot,200
+Los Angeles,1965,756142.68,7,2,,Corner Lot,180
+San Diego,2010,823877.18,1,1,8103,Main Street,180
+San Antonio,1996,584014.35,7,1,3116,Main Street,170
+Philadelphia,1938,408954.44,4,3,6574,Corner Lot,120
+San Diego,1914,56072.95,6,1,7800,Corner Lot,180
+Los Angeles,1975,199363.83,3,5,,Residential Street,180
+San Diego,1970,658295.02,6,1,1899,Residential Street,180
+San Antonio,1958,792317.37,4,1,3451,Highway,170
+Philadelphia,1903,126998.71,2,4,,Main Street,120
+San Antonio,1951,508433.74,7,2,5605,Highway,170
+New York,1983,621245.74,5,5,815,Highway,200
+San Diego,1982,506689.69,3,5,7288,Highway,180
+Phoenix,1952,625087.12,5,1,5359,Highway,130
+Chicago,1938,673167.05,6,1,1242,Corner Lot,220
+Philadelphia,2017,611802.1,1,4,3858,Side Street,120
+Los Angeles,1940,132952.57,7,3,5600,Corner Lot,180
+New York,1919,803756.7,5,4,4478,Corner Lot,200
+Phoenix,1986,911924.35,6,2,,Side Street,130
+San Antonio,1953,114181.65,5,2,5486,Main Street,170
+Phoenix,1976,651044.45,5,4,5023,Corner Lot,130
+San Diego,1924,423845.2,4,2,2472,Main Street,180
+Los Angeles,1922,92081.42,5,3,2375,Residential Street,180
+Houston,1914,773030.14,4,1,2074,Residential Street,150
+San Diego,1946,446764.33,4,4,2237,Highway,180
+San Antonio,1970,399548.11,4,3,8675,Corner Lot,170
+Philadelphia,1944,815494.33,3,2,8792,Corner Lot,120
+San Diego,1963,459801.56,1,1,8346,Corner Lot,180
+Los Angeles,1960,207839.58,2,1,9097,Main Street,180
+Chicago,1981,946860.81,6,3,4183,Residential Street,220
+Chicago,2011,684085.77,7,3,8825,Main Street,220
+Phoenix,1947,973277.77,5,2,4583,Highway,130
+Los Angeles,2021,978694.15,4,2,7608,Corner Lot,180
+San Diego,1983,318363.98,1,1,1613,Residential Street,180
+New York,1963,305638.4,4,3,3512,Side Street,200
+Phoenix,1919,240886.83,1,4,8462,Side Street,130
+Houston,1971,534343.77,6,5,5009,Highway,150
+Houston,1933,57970.7,6,5,7487,Main Street,150
+Philadelphia,1900,626548.73,5,1,4291,Side Street,120
+Houston,1980,74462.36,3,1,3587,Corner Lot,150
+Phoenix,2012,179424.17,4,2,7995,Main Street,130
+Chicago,1962,968595.84,4,2,8511,Main Street,220
+Houston,1936,635429.87,4,2,2445,Highway,150
+San Antonio,1958,749013.05,2,2,4996,Side Street,170
+Los Angeles,2019,731224.67,6,5,7389,Corner Lot,180
+Los Angeles,1930,759337.29,5,1,9210,Highway,180
+Los Angeles,1965,646331.68,4,1,4822,Residential Street,180
+San Diego,1901,189757.96,4,5,8096,Side Street,180
+New York,1920,343990.37,5,2,6754,Corner Lot,200
+Phoenix,1998,996196.73,5,5,3442,Highway,130
+Chicago,1955,201615.25,3,2,,Side Street,220
+San Antonio,1949,564692.34,2,2,4149,Side Street,170
+Chicago,1987,349282.32,1,1,3957,Residential Street,220
+San Antonio,2012,239035.38,7,2,4693,Residential Street,170
+San Antonio,1952,448142.78,1,2,5565,Main Street,170
+Phoenix,2023,808086.44,5,3,,Highway,130
+Phoenix,1920,153883.86,5,4,980,Corner Lot,130
+Chicago,1938,203172,7,2,5397,Side Street,220
+Houston,1927,958495.68,6,3,,Side Street,150
+San Antonio,1935,163024.59,2,2,3985,Residential Street,170
+San Antonio,1923,946334,5,4,5905,Highway,170
+New York,1963,840030.89,7,2,8765,Side Street,200
+Philadelphia,1911,95645.27,7,2,6121,Highway,120
+Philadelphia,1902,987445.47,2,2,3981,Residential Street,120
+Philadelphia,1942,785508.64,4,3,,Side Street,120
+Phoenix,2016,97802.4,6,2,8956,Main Street,130
+Los Angeles,2012,330919.69,3,5,4196,Main Street,180
+Chicago,2022,784054.08,5,2,7906,Corner Lot,220
+Philadelphia,1904,550540.67,1,4,5859,Highway,120
+Phoenix,1962,202145.09,5,5,3257,Side Street,130
+San Antonio,1907,136398.52,3,1,4227,Main Street,170
+San Antonio,1933,238555.82,2,2,4083,Corner Lot,170
+New York,1939,391293.93,7,4,1192,Residential Street,200
+Philadelphia,1961,881115.6,3,1,,Corner Lot,120
+Chicago,1902,847182.93,3,1,8500,Highway,220
+Phoenix,1963,263408.12,6,4,5673,Side Street,130
+Philadelphia,2018,965692.97,3,2,8912,Main Street,120
+New York,1933,255027.69,4,1,9532,Highway,200
+San Antonio,1988,139792.92,3,4,7411,Side Street,170
+Chicago,1918,998892.14,7,4,7696,Corner Lot,220
+New York,1936,593445.5,6,5,7504,Highway,200
+Phoenix,2019,469323.74,6,4,2019,Side Street,130
+San Antonio,1948,565560.45,5,2,4065,Main Street,170
+Houston,1959,243346.24,6,5,8258,Residential Street,150
+Phoenix,1959,67155.9,7,5,5058,Side Street,130
+Chicago,1930,101903.47,7,1,1823,Main Street,220
+Chicago,2021,341876.91,1,3,6773,Highway,220
+New York,1986,317121.33,5,2,5465,Highway,200
+Phoenix,1954,454351.17,7,4,5829,Corner Lot,130
+Philadelphia,1908,255510.35,5,1,8948,Corner Lot,120
+Houston,1901,624166.09,2,4,1558,Corner Lot,150
+Philadelphia,2000,230425.86,6,5,9982,Side Street,120
+Houston,1989,557283.79,6,3,7310,Side Street,150
+Houston,1922,845076.67,6,3,708,Side Street,150
+San Antonio,1991,960976.55,7,4,5232,Side Street,170
+San Antonio,1998,201092.33,7,5,,Highway,170
+Houston,1974,729544.14,7,5,9378,Main Street,150
+Philadelphia,1981,114975.28,5,5,4575,Highway,120
+Phoenix,1918,832234.88,2,1,4362,Side Street,130
+San Antonio,1936,738473.75,1,3,4360,Corner Lot,170
+Los Angeles,1976,80856.43,4,4,8381,Side Street,180
+Los Angeles,1947,478161.69,6,4,7863,Side Street,180
+San Antonio,1909,688487.03,6,1,8224,Corner Lot,170
+San Antonio,1930,944275.76,5,1,8129,Corner Lot,170
+San Diego,1956,943361.37,2,1,8853,Main Street,180
+New York,1981,946063.22,5,5,9263,Main Street,200
+New York,1983,996190.89,6,5,4574,Highway,200
+New York,1970,309489.96,4,5,1318,Main Street,200
+Houston,1915,627693.66,2,1,4984,Corner Lot,150
+San Antonio,2011,896233.8,5,2,1629,Corner Lot,170
+San Antonio,1957,63897.21,5,2,7185,Corner Lot,170
+San Antonio,1980,771533.43,3,5,9316,Main Street,170
+Chicago,1916,799392.63,1,4,6459,Residential Street,220
+San Antonio,1994,194762.74,3,1,4752,Highway,170
+Phoenix,1923,270956.18,2,2,8310,Main Street,130
+San Antonio,1904,942503.21,4,4,,Corner Lot,170
+Philadelphia,1936,702092.57,6,4,7618,Corner Lot,120
+Chicago,1905,240854.09,3,4,6261,Main Street,220
+Chicago,1922,217055.78,6,3,,Corner Lot,220
+Phoenix,1999,636164.96,3,3,8298,Side Street,130
+San Diego,2023,165410.23,7,3,9707,Residential Street,180
+Houston,1966,411291.87,1,5,1727,Highway,150
+San Antonio,1939,799628.26,2,4,7975,Highway,170
+Chicago,1915,395950.63,4,3,,Main Street,220
+Houston,2022,114802.36,6,3,6401,Side Street,150
+Chicago,1972,602978.5,6,3,9634,Main Street,220
+Phoenix,1986,999442.26,6,4,4803,Highway,130
+Philadelphia,1992,220108.08,3,5,4062,Main Street,120
+San Antonio,1933,96643.81,1,1,7165,Residential Street,170
+San Antonio,1984,715261.86,2,3,6404,Residential Street,170
+Chicago,1930,256918.85,5,1,8515,Corner Lot,220
+New York,1938,764414.93,6,3,3516,Residential Street,200
+Houston,1932,759285.32,1,2,6618,Highway,150
+San Diego,2011,642266.65,6,4,3583,Corner Lot,180
+Houston,2019,748050.26,2,3,9446,Highway,150
+New York,1907,488201.55,4,1,,Residential Street,200
+San Antonio,2010,148035.07,2,4,6272,Residential Street,170
+San Diego,1991,904663.11,5,2,725,Side Street,180
+Chicago,2019,925838.4,4,1,2190,Residential Street,220
+Phoenix,1977,449124.18,4,1,6858,Residential Street,130
+New York,1980,711008.68,6,5,4465,Side Street,200
+Philadelphia,1918,842286.72,7,2,6404,Corner Lot,120
+Houston,1977,561852.96,5,5,4505,Corner Lot,150
+Los Angeles,1963,111492.71,4,2,8077,Side Street,180
+San Antonio,1921,356320.95,3,4,3437,Corner Lot,170
+New York,1920,426316.95,2,5,6946,Residential Street,200
+Phoenix,1914,333245.92,5,5,3225,Main Street,130
+Houston,1914,523212.12,7,5,2798,Highway,150
+Los Angeles,1945,424150.67,2,5,3408,Corner Lot,180
+Philadelphia,1972,562086.11,3,4,7019,Corner Lot,120
+Houston,1904,193665.03,2,5,9067,Residential Street,150
+Chicago,1901,279858.5,5,4,1550,Main Street,220
+San Antonio,2019,971579.57,3,4,9515,Residential Street,170
+San Antonio,1993,614105.17,5,4,2899,Highway,170
+Philadelphia,1908,99487.6,2,4,7102,Corner Lot,120
+Los Angeles,2007,824328.54,2,5,8427,Highway,180
+Houston,1933,183356.47,7,3,9933,Main Street,150
+Philadelphia,1930,155960.5,6,1,9134,Highway,120
+Philadelphia,1927,920859.72,5,5,8399,Residential Street,120
+Philadelphia,1951,644421.88,4,4,4016,Highway,120
+San Diego,1931,265583.65,3,5,8239,Main Street,180
+Philadelphia,1923,228788.11,4,1,6763,Highway,120
+San Diego,1980,430436.06,4,2,2257,Highway,180
+Phoenix,1969,818645.68,2,1,8193,Side Street,130
+Phoenix,1918,607960.17,4,5,7151,Corner Lot,130
+New York,1930,888533.76,3,4,3017,Side Street,200
+Chicago,1974,72477.83,6,4,1930,Corner Lot,220
+Philadelphia,2008,579271.76,6,1,5291,Residential Street,120
+Chicago,1919,425739.89,2,3,5020,Highway,220
+New York,1968,943131.98,5,5,7995,Residential Street,200
+San Antonio,1970,56457.46,7,1,7514,Highway,170
+Philadelphia,1974,151778.68,2,3,6277,Main Street,120
+San Antonio,1982,688550.51,3,2,3048,Side Street,170
+Chicago,2016,248220.18,1,2,2896,Residential Street,220
+San Antonio,2010,586957.03,7,4,9448,Side Street,170
+Phoenix,1950,951180.74,5,4,2406,Corner Lot,130
+Phoenix,2014,962404.48,6,1,2320,Highway,130
+New York,1990,405814.95,4,3,5552,Residential Street,200
+Los Angeles,1907,299084.33,7,1,2792,Residential Street,180
+Philadelphia,1929,967819.72,3,3,846,Corner Lot,120
+Houston,1910,710473.36,2,3,2070,Highway,150
+Los Angeles,1951,444336.98,7,2,802,Residential Street,180
+Los Angeles,1936,798201.1,1,5,3637,Highway,180
+Philadelphia,1930,949229.21,4,1,3475,Highway,120
+San Diego,1925,124936.87,2,3,7478,Highway,180
+New York,1960,938146.59,2,5,6278,Residential Street,200
+Los Angeles,1995,698019.5,3,1,8988,Highway,180
+Houston,1999,533550.3,7,3,5320,Highway,150
+New York,1956,839430.25,1,2,4788,Main Street,200
+Houston,1962,152556.9,5,4,8652,Side Street,150
+San Diego,1935,791543.49,7,5,2992,Side Street,180
+Houston,2023,564764.66,1,1,4465,Side Street,150
+Los Angeles,1920,800300.57,6,1,2849,Highway,180
+Chicago,1981,381057.86,3,3,1932,Side Street,220
+Phoenix,1915,238039.5,2,3,3658,Corner Lot,130
+Houston,1941,731112.2,4,5,3832,Main Street,150
+Philadelphia,1930,502481.74,3,5,1814,Corner Lot,120
+New York,1978,172104.41,1,5,5506,Corner Lot,200
+Philadelphia,1910,286877.99,1,1,3670,Residential Street,120
+New York,1933,316035.14,2,1,7024,Side Street,200
+San Diego,1919,494177.55,2,5,5207,Residential Street,180
+Houston,2009,258735.75,7,1,4276,Main Street,150
+New York,1986,718714.86,5,4,8308,Side Street,200
+Phoenix,1995,884134.81,7,3,2770,Side Street,130
+New York,1953,359523.05,4,3,7160,Highway,200
+New York,1998,757320.8,6,3,3724,Corner Lot,200
+Chicago,2013,677402.71,1,2,2042,Corner Lot,220
+San Diego,1919,581264.24,3,1,3675,Corner Lot,180
+Philadelphia,2022,286816.2,5,2,4581,Main Street,120
+San Antonio,1940,95027.76,7,2,2852,Main Street,170
+San Diego,1927,891737.32,7,2,5672,Corner Lot,180
+Chicago,1921,610914.45,2,1,5809,Highway,220
+New York,1994,531631.39,1,3,4530,Side Street,200
+Philadelphia,1979,905813.16,7,5,6312,Residential Street,120
+San Diego,1941,659676.71,2,3,7671,Highway,180
+Philadelphia,1985,861355.09,5,2,8951,Highway,120
+San Diego,1985,52503.22,1,2,1600,Residential Street,180
+Houston,1906,987087.06,2,3,791,Highway,150
+Chicago,1937,543380.26,6,3,2535,Corner Lot,220
+San Antonio,1952,668912.04,4,3,2439,Residential Street,170
+Phoenix,1923,254526.54,6,5,1214,Side Street,130
+Phoenix,1916,134082.56,6,2,1501,Corner Lot,130
+Phoenix,1961,505033.66,3,3,1004,Corner Lot,130
+Phoenix,2013,223830.39,7,4,8444,Main Street,130
+San Diego,1997,176864.46,3,2,4398,Residential Street,180
+Philadelphia,2014,154540.61,4,1,3341,Corner Lot,120
+Philadelphia,1946,628165.55,5,1,5620,Residential Street,120
+Houston,2016,110681.92,2,3,8005,Side Street,150
+Phoenix,1908,199924.52,3,3,6944,Side Street,130
+San Antonio,1962,308655.07,7,2,8036,Residential Street,170
+San Diego,1912,87693.58,5,4,3692,Highway,180
+Los Angeles,1942,437321.29,5,1,6295,Side Street,180
+San Antonio,1947,411642.68,2,1,8923,Residential Street,170
+San Diego,1947,929317.43,2,3,605,Side Street,180
+Philadelphia,1969,252212.48,2,1,7251,Main Street,120
+Phoenix,1931,445250.49,2,5,795,Side Street,130
+Los Angeles,1990,480887.22,5,2,3266,Side Street,180
+Philadelphia,1915,647781.58,4,2,5751,Corner Lot,120
+Phoenix,1910,464169.04,2,4,7710,Main Street,130
+New York,1915,650957.51,3,1,2490,Residential Street,200
+Phoenix,1981,756745.71,4,2,6644,Residential Street,130
+New York,1931,204032.71,3,1,1739,Main Street,200
+Phoenix,1957,263976.27,6,5,6045,Main Street,130
+Los Angeles,1962,766667.01,2,4,7430,Corner Lot,180
+Houston,1949,231829.19,1,5,7807,Side Street,150
+Houston,2018,268913.51,6,3,2378,Side Street,150
+Chicago,1917,800493.32,3,2,710,Side Street,220
+San Antonio,1913,98803.46,5,4,5916,Side Street,170
+Phoenix,1953,707796.56,7,2,5334,Highway,130
+Philadelphia,1971,321441.41,6,3,1016,Residential Street,120
+Chicago,1984,332584.84,2,3,7304,Main Street,220
+Houston,1952,69649.87,2,4,5239,Main Street,150
+San Antonio,2024,195496.02,1,3,9552,Highway,170
+Philadelphia,1947,221560.51,2,3,2747,Corner Lot,120
+Los Angeles,1997,407761.82,2,2,5737,Side Street,180
+Houston,1901,849704.03,4,4,2162,Corner Lot,150
+Phoenix,2007,238783.87,1,4,6465,Highway,130
+Chicago,1985,857952.34,7,3,1240,Highway,220
+San Antonio,1904,146548.2,4,1,7126,Main Street,170
+Houston,1938,787251.07,1,2,2326,Side Street,150
+Los Angeles,1977,275594.17,7,4,9269,Highway,180
+Chicago,1901,712981.38,2,4,731,Residential Street,220
+Philadelphia,1975,735811.13,1,2,5392,Highway,120
+Chicago,1910,801502.68,3,5,7701,Corner Lot,220
+Chicago,1969,983974.7,6,2,8784,Residential Street,220
+Houston,1924,158651.55,7,3,9843,Highway,150
+Phoenix,1933,90317.5,4,1,1135,Highway,130
+Los Angeles,1907,759285.53,6,1,4134,Corner Lot,180
+Houston,2020,474744.54,3,5,9486,Corner Lot,150
+San Diego,1946,990292.91,7,1,715,Corner Lot,180
+Chicago,2023,429890.56,1,4,4270,Corner Lot,220
+Philadelphia,1952,227827.63,2,3,,Main Street,120
+Los Angeles,2010,77342.7,6,4,2931,Main Street,180
+Chicago,1947,342484.23,3,2,4947,Highway,220
+Chicago,2008,526301.18,7,2,,Main Street,220
+Los Angeles,1901,139733.97,3,1,7615,Side Street,180
+Los Angeles,2006,798506.45,1,1,6542,Highway,180
+San Diego,1918,145800.55,5,2,6042,Highway,180
+New York,1963,671983.37,4,5,8829,Residential Street,200
+Phoenix,1934,929243.8,3,5,973,Highway,130
+Phoenix,2020,118163.43,4,5,9222,Side Street,130
+San Antonio,1921,843530.45,6,4,3201,Highway,170
+San Antonio,1929,124592.08,7,3,4930,Highway,170
+Philadelphia,2013,668094.24,4,1,4206,Corner Lot,120
+Chicago,1958,881558.89,5,4,1361,Highway,220
+Philadelphia,2003,815426.25,1,1,6022,Corner Lot,120
+San Antonio,1902,610752.63,4,5,7181,Residential Street,170
+Houston,1945,832664.95,4,3,5698,Highway,150
+Houston,1980,116664.86,5,3,1204,Main Street,150
+Chicago,1945,771029.59,7,3,7598,Main Street,220
+Phoenix,1975,286561.41,5,2,1006,Main Street,130
+San Diego,1945,346356.84,1,4,1563,Highway,180
+Phoenix,1918,673415.48,2,1,4862,Side Street,130
+Phoenix,1962,621793.84,6,1,2621,Residential Street,130
+Phoenix,1931,193861.33,2,5,781,Corner Lot,130
+Chicago,1941,312294.11,1,3,8552,Side Street,220
+Houston,1939,794929.28,7,4,5872,Residential Street,150
+Phoenix,2009,142301.52,2,2,,Highway,130
+New York,1963,602817.58,5,2,4336,Highway,200
+Philadelphia,1985,67271.62,7,1,3677,Corner Lot,120
+Phoenix,1960,168647.37,2,3,5924,Corner Lot,130
+Houston,1906,243392.64,5,2,6434,Side Street,150
+Chicago,1962,598480.41,5,3,5647,Corner Lot,220
+Los Angeles,1993,174971.97,5,2,,Residential Street,180
+Philadelphia,1942,663354.5,1,4,2009,Corner Lot,120
+Chicago,2017,410406.12,5,2,7857,Residential Street,220
+San Antonio,1946,568188.69,4,5,8815,Residential Street,170
+Chicago,1956,232997.36,6,1,6021,Corner Lot,220
+New York,1988,619880.61,2,5,9416,Main Street,200
+San Antonio,1909,816337.77,1,1,5217,Side Street,170
+Phoenix,2001,117407.48,4,2,6423,Side Street,130
+Los Angeles,1901,448082.67,6,5,6499,Corner Lot,180
+Philadelphia,1945,605685.46,4,1,1467,Residential Street,120
+New York,2019,562896.82,2,4,9396,Corner Lot,200
+San Antonio,1901,559877.58,5,1,9921,Highway,170
+New York,1974,695142.32,1,1,3553,Main Street,200
+San Diego,2013,921541.42,3,2,3297,Residential Street,180
+San Antonio,1999,276513.72,6,5,3463,Residential Street,170
+Phoenix,1944,201010.68,5,2,3989,Highway,130
+Philadelphia,1950,605704.34,5,4,9609,Highway,120
+Los Angeles,1953,293944.1,7,2,6716,Highway,180
+Los Angeles,1988,931614.54,6,5,3612,Side Street,180
+San Antonio,2016,843962.89,4,1,9308,Side Street,170
+Philadelphia,2005,991916.59,4,3,1979,Main Street,120
+Los Angeles,2016,693191.06,5,1,1721,Residential Street,180
+New York,1950,477517.63,7,2,7009,Main Street,200
+Philadelphia,1956,827749.11,3,2,8983,Corner Lot,120
+New York,1924,736287.23,2,4,5453,Main Street,200
+Philadelphia,1943,923998.49,1,1,8003,Corner Lot,120
+Phoenix,1907,61105.27,7,2,5530,Highway,130
+Philadelphia,1925,485241.32,2,5,7015,Main Street,120
+San Diego,2015,870666.76,6,1,8132,Side Street,180
+Philadelphia,1938,603503.97,2,2,5808,Corner Lot,120
+San Diego,1939,584155.91,2,4,9525,Main Street,180
+Houston,1924,282208.19,6,1,5635,Residential Street,150
+Houston,2008,368034.55,5,5,9577,Residential Street,150
+Houston,1947,912893.32,3,1,,Corner Lot,150
+Phoenix,1948,482888.01,5,1,5938,Side Street,130
+Phoenix,1953,660949.23,1,3,5739,Corner Lot,130
+Phoenix,2021,884004.06,1,5,8164,Main Street,130
+San Diego,1945,963341.52,3,3,5843,Main Street,180
+Houston,2020,676910.36,4,4,6047,Highway,150
+Philadelphia,1945,682859.43,5,3,843,Main Street,120
+New York,2003,641006.05,4,2,4133,Highway,200
+Philadelphia,1930,195246.89,6,1,1858,Residential Street,120
+Chicago,1944,488507.45,4,4,6225,Main Street,220
+San Antonio,1976,173752.88,3,2,6484,Highway,170
+Philadelphia,2024,922876.84,4,2,,Main Street,120
+Los Angeles,1954,695677.4,1,5,962,Residential Street,180
+San Diego,1975,425940.31,1,2,7747,Highway,180
+New York,2002,344897.08,2,2,1698,Main Street,200
+Philadelphia,1960,799480.94,7,4,6735,Main Street,120
+Chicago,1973,548392.92,2,3,745,Highway,220
+Houston,1903,427045.56,7,3,7569,Residential Street,150
+Phoenix,1917,927565.74,3,1,2474,Main Street,130
+Los Angeles,2015,926055.1,2,4,9634,Main Street,180
+Phoenix,2021,380477.73,4,1,4851,Residential Street,130
+Phoenix,1951,269233.19,7,2,1681,Highway,130
+San Antonio,1920,971811.21,3,3,6020,Side Street,170
+Philadelphia,1936,627729.56,4,5,2957,Main Street,120
+Houston,1936,619416.62,5,1,5533,Residential Street,150
+Philadelphia,1958,835929.29,4,3,2244,Highway,120
+New York,1931,805882.07,3,4,1260,Residential Street,200
+Phoenix,1967,126987.05,3,3,5393,Main Street,130
+Philadelphia,1960,168185.23,5,2,3790,Main Street,120
+San Antonio,1965,542728.02,6,5,667,Corner Lot,170
+Houston,1938,554741.2,2,3,778,Main Street,150
+San Antonio,1951,465118.58,1,4,3833,Side Street,170
+Houston,1963,303673.82,2,4,4164,Highway,150
+Chicago,1990,908034.11,1,3,7509,Residential Street,220
+Phoenix,1996,524188.98,3,3,2121,Residential Street,130
+New York,1981,916662.25,1,4,2359,Corner Lot,200
+San Diego,1974,517415.8,3,5,3570,Side Street,180
+San Diego,1943,387459.1,3,5,9100,Main Street,180
+San Antonio,1983,660584.28,5,5,4241,Main Street,170
+Philadelphia,2002,454192.06,1,1,3997,Residential Street,120
+Chicago,1953,854632.99,2,2,8868,Main Street,220
+San Diego,1948,440255.57,3,3,5498,Residential Street,180
+Chicago,2014,290686.94,5,1,2217,Highway,220
+Houston,1927,982626.92,6,4,6256,Highway,150
+Los Angeles,1907,525062.54,2,5,7779,Corner Lot,180
+Phoenix,1981,832931.93,2,1,3739,Highway,130
+San Diego,1954,218117.59,4,5,6246,Corner Lot,180
+Los Angeles,2001,169168.57,3,3,5269,Side Street,180
+Houston,1936,644731.91,6,2,7387,Corner Lot,150
+Phoenix,1928,406839.31,6,1,9147,Corner Lot,130
+San Antonio,1940,980770.35,1,1,654,Corner Lot,170
+Houston,1910,659380.17,7,1,1713,Highway,150
+Chicago,2005,236542.69,5,3,2505,Corner Lot,220
+Houston,2023,540106.21,5,1,7348,Residential Street,150
+Houston,1912,116259.43,5,2,3490,Side Street,150
+Houston,1940,138577.72,7,1,1472,Residential Street,150
+Houston,2020,617129.91,5,3,4271,Residential Street,150
+San Antonio,1948,492263.53,3,4,6021,Main Street,170
+San Diego,1973,183476.44,3,3,8148,Side Street,180
+San Diego,1954,138993.81,2,1,5144,Corner Lot,180
+Houston,2004,345059.25,4,1,2118,Highway,150
+Houston,2012,620028.29,2,4,3613,Main Street,150
+San Diego,1965,236910.9,5,2,3973,Highway,180
+Philadelphia,2011,376156.93,7,5,5664,Main Street,120
+Chicago,1927,636795.28,1,4,3419,Main Street,220
+San Diego,1932,848357.04,2,4,8600,Side Street,180
+Los Angeles,1963,315852.42,3,5,2648,Main Street,180
+San Diego,1932,70590.56,1,1,7325,Residential Street,180
+New York,1942,295399.27,2,1,8626,Main Street,200
+San Antonio,1903,90789.17,1,1,4378,Side Street,170
+Los Angeles,1990,790366.03,5,4,4863,Side Street,180
+Houston,1966,316578.35,2,5,3139,Corner Lot,150
+New York,1946,795503.76,1,4,3535,Main Street,200
+New York,1912,353248.25,5,4,5810,Side Street,200
+Los Angeles,1933,860392.28,7,2,2676,Side Street,180
+Philadelphia,1938,893367.01,7,5,6001,Side Street,120
+Philadelphia,1997,419542.96,1,3,3832,Main Street,120
+Philadelphia,2017,964533.99,4,3,4784,Corner Lot,120
+Phoenix,1922,366337.16,1,5,6333,Highway,130
+Los Angeles,1964,198624.52,2,4,1821,Residential Street,180
+Philadelphia,1935,911543.88,6,3,1114,Side Street,120
+Los Angeles,1927,324056.18,4,1,3551,Highway,180
+Philadelphia,1964,448225.54,3,1,4199,Main Street,120
+Los Angeles,1976,188945.68,4,5,7914,Corner Lot,180
+Houston,2007,712167.12,5,3,9118,Side Street,150
+Phoenix,1960,778246.15,4,2,9265,Side Street,130
+Houston,1989,345842.14,2,4,5155,Main Street,150
+New York,1940,542668.36,3,2,4303,Main Street,200
+Los Angeles,2004,68239.14,1,1,4783,Main Street,180
+Philadelphia,1945,263489.29,3,4,5728,Residential Street,120
+Los Angeles,2015,391603.88,4,3,1886,Highway,180
+Phoenix,1958,695132.4,6,3,1613,Residential Street,130
+Los Angeles,1963,442918.53,3,3,9581,Residential Street,180
+New York,1961,447969.21,1,2,3751,Residential Street,200
+Phoenix,1979,164360.69,3,2,4175,Main Street,130
+Phoenix,1991,673603.06,5,4,2505,Side Street,130
+Chicago,1936,844024.58,7,3,6115,Residential Street,220
+Phoenix,1926,804858.77,3,4,5172,Highway,130
+New York,1944,905188.37,2,2,7886,Corner Lot,200
+San Antonio,1989,529426.95,2,3,9817,Corner Lot,170
+San Diego,1982,342297.16,7,2,8694,Residential Street,180
+Phoenix,1915,343452.95,3,2,3477,Main Street,130
+Philadelphia,1982,400710.99,2,4,8106,Side Street,120
+San Antonio,1944,424322.13,4,3,5532,Highway,170
+San Antonio,2018,183932.25,3,1,869,Corner Lot,170
+Los Angeles,1901,580643.01,2,5,8775,Main Street,180
+New York,1941,493570.6,3,4,9150,Corner Lot,200
+Phoenix,1925,191858.54,7,4,1466,Residential Street,130
+San Antonio,1912,903929.96,5,2,2647,Corner Lot,170
+Phoenix,1993,850685.32,4,1,1023,Corner Lot,130
+Phoenix,1980,812354.61,3,5,5357,Main Street,130
+Chicago,1928,859420.6,6,5,1247,Residential Street,220
+New York,1903,472281.49,7,3,5036,Side Street,200
+Houston,1964,422420.12,6,2,9615,Corner Lot,150
+Chicago,1911,95527.86,1,3,8466,Main Street,220
+Chicago,1974,549290.14,1,4,695,Corner Lot,220
+New York,1961,300701.09,3,1,4388,Highway,200
+Los Angeles,1917,596975.03,7,1,3161,Main Street,180
+Los Angeles,1962,732623.97,6,2,,Side Street,180
+Phoenix,1958,836639.89,4,2,1193,Side Street,130
+San Diego,1987,369192.69,3,3,7508,Corner Lot,180
+Philadelphia,1934,81815.37,4,1,2572,Residential Street,120
+Chicago,1949,816423.03,5,2,6636,Corner Lot,220
+New York,2015,243005.83,1,2,,Highway,200
+Los Angeles,1921,538600.82,6,3,2452,Highway,180
+San Diego,1973,791783.48,3,1,2884,Main Street,180
+San Diego,1953,334735.59,6,2,9378,Residential Street,180
+San Diego,2019,587348.68,2,1,508,Main Street,180
+Houston,1956,464352.55,3,3,9803,Corner Lot,150
+San Antonio,1979,691410.34,6,5,2377,Side Street,170
+San Antonio,1941,700187.84,3,4,912,Highway,170
+Phoenix,1905,357304.16,6,5,,Highway,130
+San Antonio,1910,186348.84,1,5,6572,Main Street,170
+Chicago,1914,813987.24,7,1,6498,Residential Street,220
+New York,1927,62021.91,4,3,1524,Corner Lot,200
+San Diego,1943,400098.02,5,1,4582,Highway,180
+Philadelphia,1937,964542.54,3,1,2098,Main Street,120
+Philadelphia,1988,409634.58,4,1,7254,Residential Street,120
+San Diego,1964,784931.24,7,5,8671,Corner Lot,180
+San Diego,2011,793230.42,1,3,4512,Side Street,180
+New York,1917,826598.88,6,2,4818,Corner Lot,200
+San Diego,2002,641618.03,5,4,7938,Corner Lot,180
+Chicago,2021,572250.24,7,2,2382,Side Street,220
+Los Angeles,1970,317546.85,6,5,886,Main Street,180
+San Diego,1937,877145.81,6,4,3462,Main Street,180
+San Diego,1969,580376.8,7,3,8561,Highway,180
+Los Angeles,1926,666788.02,4,3,8224,Corner Lot,180
+Los Angeles,1967,375672.26,6,2,8557,Main Street,180
+San Antonio,1993,136525.53,5,3,3046,Corner Lot,170
+San Antonio,1904,775685.38,3,3,7907,Highway,170
+Philadelphia,1923,322265.1,5,3,4712,Residential Street,120
+Chicago,1976,649243.04,2,3,9285,Corner Lot,220
+New York,1900,735520.88,6,4,9947,Residential Street,200
+Phoenix,1952,544256.35,2,4,3796,Side Street,130
+Houston,1998,448822.59,4,2,3520,Main Street,150
+Houston,1956,749327.55,1,5,2801,Highway,150
+Philadelphia,2009,438700.06,3,4,2465,Main Street,120
+Philadelphia,2024,838395.78,7,1,6656,Residential Street,120
+San Antonio,2019,954519.93,1,4,4109,Highway,170
+Chicago,1919,805578.98,3,5,7391,Main Street,220
+Chicago,2024,214590.95,2,2,5821,Residential Street,220
+Chicago,1953,729222.71,7,1,5701,Corner Lot,220
+Philadelphia,2013,870806.78,5,1,,Highway,120
+Phoenix,1945,612700.7,3,4,5295,Highway,130
+Phoenix,1907,774896.14,5,2,8994,Residential Street,130
+Chicago,2011,701070.46,5,5,3812,Side Street,220
+San Diego,1936,95116.38,2,2,1644,Corner Lot,180
+Phoenix,1992,228509.53,4,3,1064,Corner Lot,130
+Los Angeles,1976,593225.78,4,5,8338,Main Street,180
+Phoenix,1932,731195.3,1,2,9783,Residential Street,130
+Phoenix,2021,977092.05,6,1,5856,Corner Lot,130
+Houston,1958,573520.02,4,5,6479,Highway,150
+Philadelphia,2018,510490.66,5,1,2606,Side Street,120
+San Antonio,1936,343696.95,6,5,8837,Corner Lot,170
+Chicago,1914,592747.85,7,2,4988,Corner Lot,220
+Los Angeles,1928,522570.06,7,2,2468,Corner Lot,180
+Phoenix,1938,212454.05,2,2,5165,Residential Street,130
+Chicago,1925,356438.18,2,4,7092,Main Street,220
+New York,1901,550809.19,4,1,4334,Main Street,200
+San Antonio,2018,298081.35,5,1,7014,Residential Street,170
+Philadelphia,1964,575013.61,4,5,883,Corner Lot,120
+Los Angeles,1968,902845.73,1,4,6240,Main Street,180
+Los Angeles,1992,794384.1,6,4,8081,Main Street,180
+Philadelphia,1944,254208.3,2,3,7725,Corner Lot,120
+San Diego,1993,818570.86,7,4,,Residential Street,180
+San Antonio,1920,975104.4,4,1,4467,Main Street,170
+Los Angeles,1922,836334.36,5,3,3776,Corner Lot,180
+San Diego,1977,516761.48,1,4,1431,Side Street,180
+Los Angeles,1907,966620.69,7,1,3737,Side Street,180
+San Diego,1999,662491.12,4,1,9200,Corner Lot,180
+Houston,1949,209751.43,7,5,5865,Main Street,150
+New York,1932,181625.25,7,1,2727,Main Street,200
+San Diego,1950,979513.19,5,2,8421,Corner Lot,180
+Phoenix,1946,806517.06,2,4,1204,Side Street,130
+San Antonio,2000,570829.26,4,5,4941,Side Street,170
+New York,1976,899138.59,2,4,9595,Main Street,200
+Philadelphia,1943,577193.57,3,2,1545,Highway,120
+Phoenix,1989,622875.48,1,3,9178,Residential Street,130
+San Diego,1978,133624.77,5,1,8443,Main Street,180
+Philadelphia,1947,353925.76,4,1,7740,Residential Street,120
+New York,1940,422770.37,1,5,8631,Main Street,200
+Houston,1987,852792.85,7,4,3493,Highway,150
+New York,1950,128686.38,2,3,4783,Residential Street,200
+Chicago,2009,126901.07,1,2,4082,Highway,220
+Houston,2015,626223.42,7,2,7183,Main Street,150
+Los Angeles,1983,372527.58,7,3,,Corner Lot,180
+San Diego,2000,781756.55,4,2,1330,Side Street,180
+San Antonio,1938,880875.28,2,1,737,Corner Lot,170
+New York,2014,529882.82,2,4,2932,Highway,200
+San Diego,1928,688836.49,6,3,2358,Corner Lot,180
+Phoenix,1920,826405.06,5,3,1668,Residential Street,130
+Houston,1959,995472.63,5,4,1868,Main Street,150
+Phoenix,1979,169821.7,6,4,6490,Main Street,130
+San Antonio,1969,676035.25,2,2,9369,Side Street,170
+New York,1958,608347.18,2,2,9012,Corner Lot,200
+San Diego,1911,858603.66,5,3,5870,Corner Lot,180
+Philadelphia,1988,208962.84,6,5,7435,Residential Street,120
+San Antonio,1993,221679.23,4,2,6721,Residential Street,170
+San Diego,1979,271678.89,6,1,9001,Residential Street,180
+Los Angeles,1968,173096.25,5,3,7209,Residential Street,180
+San Diego,1976,796777.69,4,4,4890,Residential Street,180
+Phoenix,1958,288202.13,7,4,993,Corner Lot,130
+Phoenix,1968,686792.88,6,4,6437,Corner Lot,130
+Chicago,2014,812299.16,5,1,1355,Corner Lot,220
+Chicago,2021,934032.58,5,1,3119,Highway,220
+Philadelphia,1958,197869.93,5,2,2491,Corner Lot,120
+New York,1946,990319,6,5,8268,Side Street,200
+San Diego,1962,868226.64,7,5,,Highway,180
+New York,1959,356803.03,1,3,4876,Main Street,200
+Houston,1978,667514.53,3,5,9707,Corner Lot,150
+Phoenix,1920,353116.06,3,2,774,Residential Street,130
+San Antonio,1913,470774.8,6,1,5289,Main Street,170
+Philadelphia,1942,782110.13,3,2,5207,Main Street,120
+Philadelphia,1944,82922.13,4,2,5046,Highway,120
+New York,1944,348127.42,2,5,4990,Side Street,200
+Phoenix,1989,780421.94,5,2,2392,Side Street,130
+Philadelphia,1947,726442.18,2,1,9097,Main Street,120
+San Antonio,2006,785063.47,5,3,5268,Residential Street,170
+Los Angeles,2016,797032.62,6,2,9016,Highway,180
+Chicago,1929,575482.78,4,4,8395,Main Street,220
+Chicago,2010,769663.8,7,4,9647,Main Street,220
+Phoenix,1969,506240.24,6,5,4049,Corner Lot,130
+New York,1927,413982.87,4,4,3350,Side Street,200
+Phoenix,1911,652613.1,6,2,7180,Corner Lot,130
+Los Angeles,1913,71793.1,7,1,6200,Highway,180
+San Diego,1963,918383.11,1,5,8732,Main Street,180
+Houston,2009,799293.85,2,5,9612,Residential Street,150
+Houston,2008,648346.63,4,3,5347,Corner Lot,150
+San Antonio,2018,197647.65,7,5,2032,Side Street,170
+San Diego,1992,288884.29,5,1,2404,Highway,180
+San Diego,1991,938428.57,1,2,2813,Highway,180
+Los Angeles,1920,735723.22,5,1,6048,Side Street,180
+Philadelphia,1906,834814.9,6,3,,Main Street,120
+Chicago,1936,110871.25,6,4,3914,Highway,220
+Chicago,1926,546854.48,3,2,,Main Street,220
+Philadelphia,1937,908985.63,7,2,9154,Side Street,120
+Chicago,2003,186454.71,3,5,8892,Residential Street,220
+San Diego,1915,538079.21,1,2,8563,Corner Lot,180
+Philadelphia,2024,609832.04,2,5,9772,Corner Lot,120
+Phoenix,1971,910667.02,2,5,5156,Side Street,130
+Chicago,1921,641568.08,3,5,3935,Highway,220
+New York,1960,433715.53,1,2,6576,Residential Street,200
+Chicago,1959,797335.02,4,5,3574,Main Street,220
+New York,1927,998767.9,3,3,772,Highway,200
+San Diego,1986,999874.5,1,4,5227,Residential Street,180
+San Antonio,1950,193645.51,4,2,,Side Street,170
+New York,1939,95278.14,4,1,605,Highway,200
+Los Angeles,1923,164710.22,3,2,4663,Main Street,180
+San Diego,1970,987566.42,6,5,7950,Highway,180
+Chicago,1950,133928.72,6,3,9194,Residential Street,220
+Phoenix,1945,734978,3,3,4308,Highway,130
+New York,1989,171908.26,1,3,9508,Highway,200
+Los Angeles,2012,951971.4,6,5,4989,Corner Lot,180
+Chicago,2011,56299.48,3,3,5770,Highway,220
+San Diego,2012,901573.87,5,2,4745,Corner Lot,180
+Philadelphia,1977,93088.08,3,3,6611,Highway,120
+Philadelphia,1912,240618.94,5,4,8687,Main Street,120
+New York,1996,851472.19,7,4,2109,Corner Lot,200
+Houston,1954,920623.27,4,2,1578,Corner Lot,150
+Philadelphia,1912,675438.92,6,2,4024,Main Street,120
+San Diego,1956,68192.19,6,3,3296,Highway,180
+New York,1950,900007.15,7,5,3424,Highway,200
+Chicago,1907,858495.48,6,2,5444,Main Street,220
+Los Angeles,1925,610441.48,7,1,2229,Side Street,180
+New York,1934,759688.32,2,3,9223,Highway,200
+Los Angeles,1969,72133.53,2,4,8887,Residential Street,180
+Chicago,2013,217573.4,4,3,4822,Main Street,220
+Houston,1912,837524.04,5,1,6017,Corner Lot,150
+New York,1977,433969.61,6,1,5335,Highway,200
+New York,2022,309251.07,7,4,6600,Side Street,200
+New York,1956,894324.38,5,5,7735,Main Street,200
+Los Angeles,1910,464931.61,4,1,6123,Side Street,180
+Chicago,1924,350170.32,7,4,733,Residential Street,220
+Phoenix,1955,88157.88,1,4,9997,Corner Lot,130
+Chicago,1989,853085.37,6,4,3061,Side Street,220
+San Antonio,1933,655965.54,7,2,5703,Highway,170
+New York,1999,211755.04,5,1,9067,Main Street,200
+Los Angeles,1949,640619.77,4,4,4384,Corner Lot,180
+Philadelphia,1946,345093.74,5,1,9312,Main Street,120
+Los Angeles,1979,562431.02,4,3,2122,Residential Street,180
+Los Angeles,1949,151189.97,7,4,1984,Side Street,180
+Houston,1987,719448.04,6,2,5499,Highway,150
+San Diego,2020,901399.15,1,1,4327,Highway,180
+Houston,1953,129580.62,2,5,7868,Residential Street,150
+San Antonio,1971,193699.17,2,5,9983,Highway,170
+Houston,1966,784475.3,1,3,3876,Corner Lot,150
+San Antonio,1934,273770.54,6,1,1063,Residential Street,170
+Los Angeles,1983,906013.04,1,1,5241,Highway,180
+Chicago,1968,795555,7,4,1228,Side Street,220
+Philadelphia,1957,562148.12,2,3,6346,Residential Street,120
+Phoenix,1905,469219.61,2,3,7108,Corner Lot,130
+San Diego,1939,332075.02,7,4,7781,Side Street,180
+San Antonio,1933,918036.67,1,1,9513,Corner Lot,170
+Los Angeles,1907,883231.25,4,2,6812,Residential Street,180
+New York,2021,552347.65,3,2,2673,Highway,200
+Philadelphia,1983,467430.63,6,5,6462,Highway,120
+Phoenix,1958,85954.06,1,3,5703,Corner Lot,130
+Los Angeles,2008,513278.16,2,3,2006,Highway,180
+Los Angeles,1986,339575.85,2,2,7223,Side Street,180
+Los Angeles,1945,800423.38,5,2,3947,Highway,180
+Los Angeles,1906,412948.65,6,1,3188,Highway,180
+Chicago,1984,309934.67,1,2,6678,Side Street,220
+Chicago,1969,483756.26,2,4,1731,Main Street,220
+San Diego,1929,214860.37,7,3,3289,Side Street,180
+Philadelphia,1941,318254.86,1,4,9946,Corner Lot,120
+Houston,1942,979281.69,5,4,9683,Residential Street,150
+San Antonio,1999,452664.42,7,1,5292,Highway,170
+Phoenix,1994,321712.97,7,1,5075,Side Street,130
+San Diego,1921,779190.62,7,4,8622,Corner Lot,180
+Phoenix,1935,737622.45,5,3,7365,Highway,130
+San Antonio,1927,587674.89,7,4,5580,Side Street,170
+Houston,1915,366437.49,7,2,4826,Corner Lot,150
+Los Angeles,1950,577161.81,6,5,8667,Corner Lot,180
+Los Angeles,1921,416267.72,4,2,7906,Highway,180
+Phoenix,2018,406893.98,5,1,7681,Side Street,130
+Philadelphia,1914,632785.39,7,1,8873,Corner Lot,120
+Phoenix,1916,366273.4,3,4,9630,Highway,130
+San Diego,1998,71381.82,3,3,9581,Highway,180
+New York,1929,390350.72,1,3,780,Highway,200
+Chicago,2008,370237.6,2,1,1905,Corner Lot,220
+Phoenix,1975,80903.08,6,5,5339,Corner Lot,130
+San Diego,2013,899881.98,7,4,3617,Main Street,180
+Philadelphia,1903,820454.91,3,5,6129,Main Street,120
+San Diego,2021,758308.4,3,5,8119,Highway,180
+Phoenix,1900,545393.35,2,2,3869,Highway,130
+Houston,1944,91119.54,2,5,7907,Highway,150
+Phoenix,1928,860956.5,7,1,2752,Highway,130
+Houston,1967,90091.66,7,3,6358,Residential Street,150
+New York,1945,780278.28,4,5,6015,Side Street,200
+Los Angeles,1971,192331.07,4,5,7205,Side Street,180
+Los Angeles,1906,395348.76,1,1,4684,Main Street,180
+San Antonio,2008,819444.72,6,3,1555,Highway,170
+Philadelphia,1932,135060.42,1,1,8967,Corner Lot,120
+New York,1967,655871.38,2,1,2909,Main Street,200
+San Diego,1934,181766.23,7,4,1594,Main Street,180
+San Antonio,1989,425208.7,6,5,6770,Main Street,170
+San Antonio,1997,412999.56,6,3,8051,Side Street,170
+New York,1939,232348.66,7,1,3970,Side Street,200
+Los Angeles,2010,319627.83,3,1,5928,Residential Street,180
+San Diego,2003,526224.17,5,5,4339,Residential Street,180
+San Diego,1905,747611.64,3,3,3421,Corner Lot,180
+Phoenix,1971,853180.2,3,1,9304,Main Street,130
+Chicago,1933,157802.64,1,5,7022,Highway,220
+Philadelphia,1933,946722.48,3,5,8243,Highway,120
+Los Angeles,1919,51290.66,1,3,7270,Main Street,180
+Chicago,1911,676089.98,7,5,8706,Side Street,220
+Phoenix,1971,878837.35,6,5,2780,Main Street,130
+Phoenix,1902,205282.09,4,2,1767,Highway,130
+Houston,1953,348437.84,7,1,8282,Main Street,150
+Los Angeles,1970,241228.41,5,1,,Residential Street,180
+San Antonio,1947,521967.09,1,1,6214,Highway,170
+Los Angeles,2004,179695.64,5,3,7103,Corner Lot,180
+Phoenix,1968,60580.84,3,2,5749,Main Street,130
+Phoenix,1940,837024.92,6,5,2436,Main Street,130
+Philadelphia,1981,941316.82,2,2,5468,Residential Street,120
+San Diego,1900,758232.4,3,2,527,Corner Lot,180
+Los Angeles,1922,250252.62,5,2,3038,Highway,180
+Philadelphia,1941,154645.45,4,5,2048,Corner Lot,120
+Philadelphia,1939,473705.29,5,4,2401,Side Street,120
+Phoenix,1942,526106.12,1,3,5721,Side Street,130
+New York,1954,867819.65,1,1,6038,Side Street,200
+Chicago,1907,345140.28,2,2,800,Residential Street,220
+Philadelphia,1963,219353.61,3,5,1864,Corner Lot,120
+San Antonio,1926,436955.29,7,5,1503,Main Street,170
+Houston,1906,661331.7,5,2,,Side Street,150
+San Antonio,1951,525857.48,7,5,5084,Main Street,170
+San Diego,1900,825103.78,6,3,9387,Highway,180
+Phoenix,2011,835433.68,2,1,8812,Residential Street,130
+New York,1938,354580.45,7,3,2275,Main Street,200
+Philadelphia,1958,379764.28,7,3,3956,Corner Lot,120
+Los Angeles,2013,937946.68,4,2,5324,Highway,180
+Los Angeles,1900,462800.56,6,2,3586,Side Street,180
+Houston,1961,496439.02,3,4,6051,Side Street,150
+Chicago,1948,580028.68,3,3,7046,Residential Street,220
+San Antonio,2012,188560.44,6,1,1355,Highway,170
+Houston,1992,512750.47,1,4,2481,Side Street,150
+San Antonio,1947,540478.99,1,3,8382,Side Street,170
+New York,1936,232417.76,1,5,5166,Side Street,200
+Houston,1992,735881.72,2,4,1342,Corner Lot,150
+San Diego,1900,584965.51,6,2,3497,Residential Street,180
+Phoenix,1957,597452.64,4,2,5075,Corner Lot,130
+New York,1949,105222.21,2,4,9059,Main Street,200
+San Antonio,2016,268541.68,6,4,3608,Residential Street,170
+Philadelphia,1968,348908.38,3,4,,Main Street,120
+Chicago,2022,375775.25,7,1,3250,Highway,220
+Los Angeles,2005,582303.94,3,5,1967,Main Street,180
+San Diego,1931,779650.67,5,2,,Highway,180
+San Antonio,1943,597907.18,4,5,2703,Highway,170
+Philadelphia,1939,818916.95,4,3,8261,Corner Lot,120
+Phoenix,1928,771459.17,6,2,6491,Main Street,130
+New York,1955,54352.69,4,3,2668,Side Street,200
+Phoenix,1956,402479.37,3,1,5205,Main Street,130
+Phoenix,2012,256307.42,2,2,8598,Highway,130
+Phoenix,1961,762859.08,2,2,9391,Side Street,130
+New York,1908,58502.07,2,4,8149,Residential Street,200
+Chicago,1902,378850.64,2,4,,Side Street,220
+Phoenix,1966,960010.23,4,4,1540,Residential Street,130
+San Antonio,1961,525134.83,7,3,6605,Side Street,170
+Houston,1983,75504.72,6,2,6985,Residential Street,150
+New York,1937,441229.31,2,4,1933,Residential Street,200
+San Antonio,1937,709277.83,6,5,6126,Main Street,170
+Philadelphia,1969,591225.04,4,2,9632,Side Street,120
+Philadelphia,1963,709732.81,4,5,9459,Side Street,120
+Phoenix,1969,408160.51,6,4,2247,Highway,130
+Philadelphia,1988,518992.43,4,3,4578,Side Street,120
+Chicago,1939,191306.47,2,5,,Residential Street,220
+San Diego,1944,403022.03,3,2,8504,Side Street,180
+San Diego,1958,485272.23,2,2,3033,Side Street,180
+San Antonio,2003,962606.25,3,1,8446,Main Street,170
+Houston,1984,201306.42,6,2,4537,Residential Street,150
+San Diego,1900,555252.66,2,2,4275,Residential Street,180
+Phoenix,1985,422763.12,7,4,4862,Main Street,130
+New York,1919,875724.62,5,3,5094,Side Street,200
+Phoenix,1908,727203.38,7,3,4305,Residential Street,130
+Chicago,1924,541289.99,1,5,9947,Corner Lot,220
+Chicago,2010,510048.67,1,4,9464,Residential Street,220
+San Antonio,1925,884762.44,2,3,2575,Main Street,170
+San Diego,2003,238359.64,7,1,1939,Main Street,180
+Philadelphia,1953,293145.82,7,4,3945,Main Street,120
+San Diego,1961,773068.33,5,3,5836,Residential Street,180
+Philadelphia,1976,156684.11,3,4,2533,Side Street,120
+San Diego,1960,411261.04,1,1,3799,Residential Street,180
+New York,1901,277305.85,1,4,6746,Highway,200
+Chicago,1949,901055.06,3,4,9547,Main Street,220
+San Diego,2013,350114.77,4,3,3708,Corner Lot,180
+San Antonio,1979,705225.3,4,3,7798,Residential Street,170
+Philadelphia,1976,822699.9,4,4,583,Main Street,120
+San Diego,2014,252098.12,3,4,6809,Highway,180
+Phoenix,1989,463755.44,7,1,899,Side Street,130
+New York,1913,108144.75,6,5,3278,Main Street,200
+Chicago,1941,846292.14,5,1,4810,Side Street,220
+Philadelphia,1928,118791.51,2,4,5537,Main Street,120
+Los Angeles,2016,118254.76,3,2,5276,Side Street,180
+Chicago,1926,795507.2,4,4,6104,Residential Street,220
+Phoenix,2007,666532.59,3,5,9931,Corner Lot,130
+Phoenix,2019,391109.53,5,1,6100,Main Street,130
+Phoenix,2023,668201.63,5,2,5269,Corner Lot,130
+San Antonio,1985,752236.65,7,1,5865,Highway,170
+Chicago,1911,280311.72,1,5,3831,Corner Lot,220
+San Diego,1914,158654.85,1,2,6473,Highway,180
+Philadelphia,1928,132510.35,5,4,1316,Highway,120
+Philadelphia,1935,476183.57,2,4,815,Residential Street,120
+Los Angeles,1913,789108.52,2,5,2095,Corner Lot,180
+Phoenix,1966,912072.59,4,2,7387,Corner Lot,130
+San Diego,1956,120469.18,5,1,3350,Side Street,180
+San Antonio,1983,343748.07,1,5,,Side Street,170
+San Antonio,1933,716896.57,1,5,2872,Side Street,170
+Philadelphia,1980,173239.15,7,2,9391,Highway,120
+New York,2020,715971.79,5,3,7377,Highway,200
+San Antonio,1930,483695.79,4,4,2440,Side Street,170
+San Diego,1930,320927.35,7,4,3305,Residential Street,180
+New York,2018,753316.68,7,5,5334,Residential Street,200
+New York,1985,465695.54,1,5,9975,Highway,200
+San Antonio,1916,642590.42,1,1,744,Highway,170
+Philadelphia,1928,208835.74,2,2,6040,Corner Lot,120
+Los Angeles,2019,914545.56,3,4,9299,Main Street,180
+New York,2009,484007.36,6,4,1293,Highway,200
+Chicago,1993,68861.59,3,3,7236,Residential Street,220
